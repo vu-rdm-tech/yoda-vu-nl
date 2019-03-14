@@ -1,5 +1,4 @@
-# Yoda informatyion for end users
-# target site:  yoda.uu.nl
+# Yoda information for end users
 On this website you can find instructions, explanations and release notes of Yoda (Your data).
 
 ## Release notes
