@@ -1,0 +1,18 @@
+main:
+  - title: What is Yoda
+    url: /what-is-yoda/index.html
+  - title: Getting started
+    url: /getting-started/index.html
+  - title: Contact
+    url: /contact/index.html
+
+
+
+getting-started:
+
+  - page: Getting started
+    url: index.html
+  - page: Howto add the Yoda Network Disk
+    url: add-yoda-disk.html
+  - page: Yoda system locations (URL)
+    url: url.html
