@@ -13,7 +13,7 @@ system or a system related to a strategic research theme.
 - [Law, Economics and Governance](/getting-started/i-lab/index.html)
 - [Medicine](/getting-started/dgk/index.html)
 - [Science](/getting-started/science/index.html)
-- [Social and Behavioural Sciences](/geting-started/fsw/index.html)
+- [Social and Behavioural Sciences](/getting-started/fsw/index.html)
 - [Veterinary Medicine](/getting-started/dgk/index.html)
 
 ## Other Yoda systems
