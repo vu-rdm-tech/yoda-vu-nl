@@ -1,0 +1,25 @@
+dist: xenial
+
+language: ruby
+
+rvm:
+  - 2.6.3
+
+sudo: false
+
+cache: bundler
+
+install:
+- gem install jekyll html-proofer
+- bundle install
+
+script:
+- bundle exec jekyll build
+- htmlproofer ./_site
+
+notifications:
+  email:
+    recipients:
+      - fbyoda@uu.nl
+    on_success: always # default: change
+    on_failure: always # default: always
