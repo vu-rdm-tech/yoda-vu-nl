@@ -7,6 +7,8 @@ main:
     url: /contact/index.html
   - title: Terms-Of_Use
     url: /Yoda-TOU.html
+  - title: Try
+    url: /tryme/index.html
 
 
 getting-started:
@@ -17,3 +19,7 @@ getting-started:
     url: add-yoda-disk.html
   - page: Yoda system locations (URL)
     url: url.html
+
+tryme:
+  - page: zomaar
+    url: /index.html
