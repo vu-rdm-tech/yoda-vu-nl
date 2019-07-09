@@ -23,7 +23,6 @@ getting-started:
 tryme:
   - page: zomaar
     url: /index.html
-
-tryme/once:
-  - page: zomaar2
-    url: /index.html
+  - once:
+        - page: zomaar2
+          url: /index.html
