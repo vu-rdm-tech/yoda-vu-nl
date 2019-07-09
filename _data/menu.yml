@@ -36,3 +36,56 @@ gettingstarted-youth:
   - page: Yoda system locations (URL)
     url:  /gettingstarted-youth/url.html
 
+
+
+gettingstarted-ilab:
+  - page: Howto add the Yoda Network Disk
+    url:  /gettingstarted-ilab/add-yoda-disk.html
+  - page: Yoda system locations (URL)
+    url:  /gettingstarted-ilab/url.html
+
+
+
+gettingstarted-geo:
+  - page: Howto add the Yoda Network Disk
+    url:  /gettingstarted-geo/add-yoda-disk.html
+  - page: Yoda system locations (URL)
+    url:  /gettingstarted-geo/url.html
+
+
+gettingstarted-gw:
+  - page: Howto add the Yoda Network Disk
+    url:  /gettingstarted-gw/add-yoda-disk.html
+  - page: Yoda system locations (URL)
+    url:  /gettingstarted-gw/url.html
+
+
+gettingstarted-rebo:
+  - page: Howto add the Yoda Network Disk
+    url:  /gettingstarted-rebo/add-yoda-disk.html
+  - page: Yoda system locations (URL)
+    url:  /gettingstarted-rebo/url.html
+
+gettingstarted-gk:
+  - page: Howto add the Yoda Network Disk
+    url:  /gettingstarted-gk/add-yoda-disk.html
+  - page: Yoda system locations (URL)
+    url:  /gettingstarted-gk/url.html
+
+gettingstarted-science:
+  - page: Howto add the Yoda Network Disk
+    url:  /gettingstarted-science/add-yoda-disk.html
+  - page: Yoda system locations (URL)
+    url:  /gettingstarted-science/url.html
+
+gettingstarted-fsw:
+  - page: Howto add the Yoda Network Disk
+    url:  /gettingstarted-fsw/add-yoda-disk.html
+  - page: Yoda system locations (URL)
+    url:  /gettingstarted-fsw/url.html
+
+gettingstarted-dgk:
+  - page: Howto add the Yoda Network Disk
+    url:  /gettingstarted-dgk/add-yoda-disk.html
+  - page: Yoda system locations (URL)
+    url:  /gettingstarted-dgk/url.html
