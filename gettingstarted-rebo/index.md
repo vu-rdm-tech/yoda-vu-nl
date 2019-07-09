@@ -1,4 +1,4 @@
-# Institutions for Open Societies 
+# Law, Economics and Governance 
  
 
 ## Introduction
