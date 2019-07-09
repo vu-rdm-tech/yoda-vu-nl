@@ -28,6 +28,8 @@ gettingstarted:
     url:  /gettingstarted-fsw/index.html
   - page: Veterinary Medicine
     url: /gettingstarted-dgk/index.html
+  - page: University Corporate Offices (UBD)
+    url: /gettingstarted-its/index.html
 
 
 gettingstarted-youth:
@@ -89,3 +91,11 @@ gettingstarted-dgk:
     url:  /gettingstarted-dgk/add-yoda-disk.html
   - page: Yoda system locations (URL)
     url:  /gettingstarted-dgk/url.html
+
+
+
+gettingstarted-its:
+  - page: Howto add the Yoda Network Disk
+    url:  /gettingstarted-its/add-yoda-disk.html
+  - page: Yoda system locations (URL)
+    url:  /gettingstarted-its/url.html
