@@ -8,7 +8,7 @@ main:
   - title: Terms-Of_Use
     url: /Yoda-TOU.html
   - title: Try
-    url: /tryme/index.html
+    url: /tryme/once/index.html
 
 
 getting-started:
@@ -22,4 +22,8 @@ getting-started:
 
 tryme:
   - page: zomaar
+    url: /index.html
+
+tryme/once:
+  - page: zomaar2
     url: /index.html
