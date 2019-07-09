@@ -2,28 +2,37 @@ main:
   - title: What is Yoda
     url: /what-is-yoda/index.html
   - title: Getting started
-    url: /getting-started/index.html
+    url: /gettingstarted/index.html
   - title: Contact
     url: /contact/index.html
   - title: Terms-Of_Use
     url: /Yoda-TOU.html
-  - title: Try
-    url: /tryme/index.html
-
 
 getting-started:
 
-  - page: Getting started
-    url: index.html
+  - page: Dynamics of Youth
+    url:  /gettingstarted-youth/index.html
+  - page: Institutions for Open Societies
+    url:  /gettingstarted-ilab/index.html
+  - page: Geo Sciences
+    url:  /gettingstarted-geo/index.html
+  - page: Humanities
+    url:  /gettingstarted-gw/index.html
+  - page: Law, Economics and Governance
+    url:  /gettingstarted-ilab/index.html
+  - page: Medicine
+    url:  /gettingstarted-dgk/index.html
+  - page: Science
+    url:  /gettingstarted-science/index.html
+  - page: Social and Behavioural Sciences
+    url:  /gettingstarted-fsw/index.html
+  - page: Veterinary Medicine
+    url: /gettingstarted-dgk/index.html
+
+
+gettingstarted-youth:
   - page: Howto add the Yoda Network Disk
-    url: add-yoda-disk.html
+    url:  /gettingstarted-youth/add-yoda-disk.html
   - page: Yoda system locations (URL)
-    url: url.html
+    url:  /gettingstarted-youth/url.html
 
-tryme:
-  - page: zomaar
-    url: /tryme-once/index.html
-
-tryme-once:
-  - page: zomaar2
-    url: /tryme/index.html
