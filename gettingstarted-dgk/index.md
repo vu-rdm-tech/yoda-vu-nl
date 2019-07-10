@@ -1,4 +1,4 @@
-# Veterinary Medicine
+# Faculty of Veterinary Medicine
 
 Yoda allows you to safely manage your valuable research data. 
 The data in kept in so called data compartments. 
