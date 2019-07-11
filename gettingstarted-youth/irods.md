@@ -21,7 +21,7 @@ You will only need to change the example username to your Yoda username.
 {
     "irods_host": "youth.data.uu.nl",
     "irods_port": 1247,
-    "irods_default_resource": "irodsResc2",
+    "irods_default_resource": "irodsResc",
     "irods_home": "/nluu1p/home",
     "irods_cwd": "/nluu1p/home",
     "irods_user_name": "exampleuser@uu.nl",
@@ -29,4 +29,3 @@ You will only need to change the example username to your Yoda username.
     "irods_authentication_scheme": "pam"
 }
 ```
-Note that in the future the default resource may change to `irodsResc`.
