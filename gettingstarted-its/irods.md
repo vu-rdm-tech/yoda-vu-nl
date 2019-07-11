@@ -1,4 +1,4 @@
-# Yoda for Corporate Offices
+# Yoda for University Corporate Offices
 ## iRODS protocol support
 As Yoda is based on iRODS technology, high speed and restartable data
 transfer is possible using the iRODS communication protocol. 
