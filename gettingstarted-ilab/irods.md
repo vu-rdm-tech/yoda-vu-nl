@@ -9,7 +9,7 @@ The protocol is used by the iRODS icommand tools. More information on these
 tools can be found on the 
 [iRODS documentation website](https://docs.irods.org/master/). 
 
-## configuration
+## Configuration
 The iRODS protocol requires you to specify several communication parameters, for instance
 the iRODS zone name and authentication method.
 Typically these parameters are prepared and stored in a configuration file 
