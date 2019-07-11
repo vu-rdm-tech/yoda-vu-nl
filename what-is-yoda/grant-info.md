@@ -53,14 +53,10 @@ classified as public, internal use, sensitive or critical.
 Using Yoda, we aim to describe our data in compliance with the FAIR principles.
 
 Our published data has the following characteristics:
-
-* Our data is **Findable** via its DOI persistent identifier and the associated metadata.
-
-* Our data is **Accessible** as it has been deposited in the Yoda repository along with accessibility classification and available either publicly downloadable as Open Data or available upon request in case of Restricted Data (sensitive data).
-
-* Our data is **Interoperable** via information on semantics as part of the data itself.
-
-* Our data is **Reusable** as per its explicit license that is part of the metadata.
+- Our data is Findable via its DOI persistent identifier and the associated metadata.
+- Our data is Accessible as it has been deposited in the Yoda repository along with accessibility classification and available either publicly downloadable as Open Data or available upon request in case of Restricted Data (sensitive data).
+- Our data is Interoperable via information on semantics as part of the data itself.
+- Our data is Reusable as per its explicit license that is part of the metadata.
 ```
 
 ## Can you provide details on your data repository? Is it FAIR?
