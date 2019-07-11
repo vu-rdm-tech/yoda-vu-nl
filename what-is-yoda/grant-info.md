@@ -91,7 +91,8 @@ same publication or project and will show up in the metadata.
 
 ## Please help me, I need to answer a different question on Yoda!
 For research data management related questions,
-email your question to info.rdm@uu.nl
+email your question to [info.rdm@uu.nl](mailto:info.rdm@uu.nl)
 
 In case you need to answer a question on Yoda features and how it supports 
-research data management, then contact the Yoda team directly at yoda@uu.nl
+research data management, then contact the Yoda team directly at 
+[yoda@uu.nl](mailto:yoda@uu.nl)
