@@ -13,7 +13,7 @@ tools can be found on the
 The iRODS protocol requires you to specify several communication parameters, for instance
 the iRODS zone name and authentication method.
 Typically these parameters are prepared and stored in a configuration file 
-named ~/.irods/irods_environment.json
+named `~/.irods/irods_environment.json`
 
 Please cut and paste the below json information into your configuration file. 
 You will only need to change the example username to your Yoda username.
