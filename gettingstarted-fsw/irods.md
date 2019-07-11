@@ -1,4 +1,4 @@
-# Yoda for Faculty of Social and Behavioural Sciences
+# Faculty of Social and Behavioural Sciences
 ## iRODS protocol support
 As Yoda is based on iRODS technology, high speed and restartable data
 transfer is possible using the iRODS communication protocol. 
