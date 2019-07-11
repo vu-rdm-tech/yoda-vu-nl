@@ -45,7 +45,8 @@ gettingstarted-ilab:
     url:  /gettingstarted-ilab/add-yoda-disk.html
   - page: Yoda system locations (URL)
     url:  /gettingstarted-ilab/url.html
-
+  - page: Configuration iRODS iCommands
+    url:  /gettingstarted-ilab/irods.html
 
 
 gettingstarted-geo:
