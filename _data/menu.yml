@@ -37,7 +37,8 @@ gettingstarted-youth:
     url:  /gettingstarted-youth/add-yoda-disk.html
   - page: Yoda system locations (URL)
     url:  /gettingstarted-youth/url.html
-
+  - page: Configuration iRODS iCommands
+    url:  /gettingstarted-youth/irods.html
 
 
 gettingstarted-ilab:
@@ -54,6 +55,8 @@ gettingstarted-geo:
     url:  /gettingstarted-geo/add-yoda-disk.html
   - page: Yoda system locations (URL)
     url:  /gettingstarted-geo/url.html
+  - page: Configuration iRODS iCommands
+    url:  /gettingstarted-geo/irods.html
 
 
 gettingstarted-gw:
@@ -61,6 +64,8 @@ gettingstarted-gw:
     url:  /gettingstarted-gw/add-yoda-disk.html
   - page: Yoda system locations (URL)
     url:  /gettingstarted-gw/url.html
+  - page: Configuration iRODS iCommands
+    url:  /gettingstarted-gw/irods.html
 
 
 gettingstarted-rebo:
@@ -68,30 +73,40 @@ gettingstarted-rebo:
     url:  /gettingstarted-rebo/add-yoda-disk.html
   - page: Yoda system locations (URL)
     url:  /gettingstarted-rebo/url.html
+  - page: Configuration iRODS iCommands
+    url:  /gettingstarted-rebo/irods.html
 
 gettingstarted-gk:
   - page: Howto add the Yoda Network Disk
     url:  /gettingstarted-gk/add-yoda-disk.html
   - page: Yoda system locations (URL)
     url:  /gettingstarted-gk/url.html
+  - page: Configuration iRODS iCommands
+    url:  /gettingstarted-gk/irods.html
 
 gettingstarted-science:
   - page: Howto add the Yoda Network Disk
     url:  /gettingstarted-science/add-yoda-disk.html
   - page: Yoda system locations (URL)
     url:  /gettingstarted-science/url.html
+  - page: Configuration iRODS iCommands
+    url:  /gettingstarted-science/irods.html
 
 gettingstarted-fsw:
   - page: Howto add the Yoda Network Disk
     url:  /gettingstarted-fsw/add-yoda-disk.html
   - page: Yoda system locations (URL)
     url:  /gettingstarted-fsw/url.html
+  - page: Configuration iRODS iCommands
+    url:  /gettingstarted-fsw/irods.html
 
 gettingstarted-dgk:
   - page: Howto add the Yoda Network Disk
     url:  /gettingstarted-dgk/add-yoda-disk.html
   - page: Yoda system locations (URL)
     url:  /gettingstarted-dgk/url.html
+  - page: Configuration iRODS iCommands
+    url:  /gettingstarted-dgk/irods.html
 
 
 
@@ -100,3 +115,5 @@ gettingstarted-its:
     url:  /gettingstarted-its/add-yoda-disk.html
   - page: Yoda system locations (URL)
     url:  /gettingstarted-its/url.html
+  - page: Configuration iRODS iCommands
+    url:  /gettingstarted-its/irods.html
