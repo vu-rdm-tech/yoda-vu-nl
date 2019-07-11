@@ -1,5 +1,4 @@
 # How to quote Yoda in grant applications
-## Research Data Management in grant applications
 Funders expect researchers to provide a statement on their data management policies
 in a data management paragraph, as part of the grant application.
 In addition, a research data management plan needs to be developed and maintained 
@@ -25,7 +24,7 @@ and as such can be made available to the research community at large.
 All Yoda data is stored in at least two geographically spread locations. 
 The data is stored and transmitted in encrypted format, 
 Yoda complies with Utrecht University's Information Security policy 
-for data classified as public, internal use, sensitive and critical. " 
+for data classified as public, internal use, sensitive and critical.
 ```
 
 ## Which metadata standards do you comply with?
@@ -59,9 +58,10 @@ Our published data has the following characteristics:
 - Our data is Reusable as per its explicit license that is part of the metadata.
 ```
 
-## Can you provide details on your data repository? Is it FAIR?
+## Can you provide details on your data repository?
 ```
-Yoda is Utrecht University's institutional research data repository.  It is registered as such with re3data.org. Yoda complies with Utrecht University's Information Security policy for data classified as public, internal use or sensitive. 
+Yoda is Utrecht University's institutional research data repository.  It is registered as such with re3data.org. 
+Yoda complies with Utrecht University's Information Security policy for data classified as public, internal use or sensitive. 
  
 Yoda facilitates collaboration on data during research, archiving of data 
 during and after research and publication of research data.  
@@ -89,6 +89,9 @@ Yoda allows referencing of other datasets or publications that are part of the
 same publication or project and will show up in the metadata.
 ```
 
-## Please help me, I need to answer a different question!
-Please forward your Yoda related question to yoda@uu.nl so that we can help you formulate an
-appropriate answer and extend this Q&A section.
+## Please help me, I need to answer a different question on Yoda!
+For research data management related questions,
+email your question to info.rdm@uu.nl
+
+In case you need to answer a question on Yoda features and how it supports 
+research data management, then contact the Yoda team directly at yoda@uu.nl
