@@ -88,3 +88,7 @@ Metadata is stored in machine readable formats.
 Yoda allows referencing of other datasets or publications that are part of the 
 same publication or project and will show up in the metadata.
 ```
+
+## Please help me, I need to answer a different question!
+Please forward your Yoda related question to yoda@uu.nl so that we can help you formulate an
+appropriate answer and extend this Q&A section.
