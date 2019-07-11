@@ -8,6 +8,10 @@ main:
   - title: Terms of Use
     url: /Yoda-TOU.html
 
+what-is-yoda:
+  - page: Grant text fragments
+    url: /what-is-yoda/grant-info.html
+
 gettingstarted:
 
   - page: Dynamics of Youth
