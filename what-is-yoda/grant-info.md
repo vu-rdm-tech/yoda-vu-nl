@@ -37,7 +37,8 @@ The metadata in the Yoda repository can also be retrieved via a service that
 complies with the Open Archives Initiatives Protocol for Metadata Harvesting (OAI-PMH).
 ```
 Should you need to comply with a discipline specific metadata standard then contact
-the Yoda team at yoda@uu.nl to obtain a configuration and support for that standard.
+the Yoda team at [yoda@uu.nl](mailto:yoda@uu.nl) 
+to obtain a configuration and support for that standard.
 
 ## Do you store your data in a certified repository?
 ```
