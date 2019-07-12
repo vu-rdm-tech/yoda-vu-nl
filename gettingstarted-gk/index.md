@@ -37,7 +37,7 @@ After completion of a study, the data in that subfolder can be deposited so that
 kept for 10 years or longer. Use the "Submit" button to deposite the subfolder, this will
 copy the contents of the subfolder to the Vault folder as a new data package (see below).  
 Before doing so, the subfolder must
-be described with metadata (whcih can be entered by clicking on "Metadata").
+be described with metadata (which can be entered by clicking on "Metadata").
 
 #### Vault area
 The other main folder named "vault-..." contains deposited data packages. 
