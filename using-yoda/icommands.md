@@ -1,6 +1,6 @@
 # Using the iRODS icommands
 
-Since Yoda is based on [iRODS technology](https://www.irods.org), it is possible to transfer
+Since Yoda is based on [iRODS technology](https://irods.org), it is possible to transfer
 data to and from Yoda using the iRODS communication protocol. 
 This protocol supports very efficient transfer of large data files.
 
