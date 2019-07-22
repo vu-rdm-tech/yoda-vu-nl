@@ -1,8 +1,8 @@
-# Connecting to the Yoda Drive on Linux
+# Connecting to the Yoda Network Disk on Linux
 
 ## Using GNOME Files
 
-GNOME users can connect to the Yoda Drive with GNOME Files (also known as Nautilus in older versions of GNOME).
+GNOME users can connect to the Yoda Network Disk with GNOME Files (also known as Nautilus in older versions of GNOME).
 
 ![alt text](screenshots/linux-connect-to-server.png "GNOME Files screenshot")
 
@@ -25,8 +25,8 @@ Then click on the Connect button.
 
 You will be prompted for a name and password. If you are an employee or student at Utrecht University, your user name is your Utrecht University email address and your password is your Solis password. Other users have usually received their user name and password via email. Click on the connect button.
 
-## Using commandline tools
+## Using command line tools
 
-If you prefer to use commandline tools, you can use these methods:
-- Mount the Yoda disk as a davfs volume. You may need to install a davfs package on your system first. On Debian-based systems, such as Ubuntu: _apt install davfs2_, and answer "Yes" to the question about allowing regular users to mount WebDAV volumes. On RedHat-based systems, such as CentOS or Fedora: _yum install davfs2_. Now look up the server address of your environment in the table above.  Replace the "davs://" in the server address with "https://" when entering the mount command. For example: _mount -t davfs https://its.data.uu.nl /mnt_.
-- [The Cadaver commandline WebDAV client](http://www.webdav.org/cadaver/) is also compatible with the Yoda disk
+If you prefer to use command line tools, you can use these methods:
+- Mount the Yoda Network Disk as a davfs volume. You may need to install a davfs package on your system first. On Debian-based systems, such as Ubuntu: _apt install davfs2_, and answer "Yes" to the question about allowing regular users to mount WebDAV volumes. On RedHat-based systems, such as CentOS or Fedora: _yum install davfs2_. Now look up the server address of your environment in the table above.  Replace the "davs://" in the server address with "https://" when entering the mount command. For example: _mount -t davfs https://its.data.uu.nl /mnt_.
+- [The Cadaver commandline WebDAV client](http://www.webdav.org/cadaver/) is also compatible with the Yoda Network Disk.

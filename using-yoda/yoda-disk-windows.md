@@ -1,4 +1,4 @@
-# Connecting to the Yoda drive on Windows
+# Connecting to the Yoda Network Disk on Windows
 
 Look up the server address of your environment:
 

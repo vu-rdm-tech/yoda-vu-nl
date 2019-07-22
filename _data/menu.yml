@@ -13,15 +13,15 @@ what-is-yoda:
     url: /what-is-yoda/grant-info.html
 
 using-yoda:
-  - page: Introduction
+  - page: Introduction to using Yoda
     url: /using-yoda/index.html
-  - page: Logging in on the Yoda portal
-    url: /using-yoda/logging-in-portal.html
-  - page: Connecting to the Yoda Drive on Windows
-    url: /using-yoda/yoda-drive-windows.html
-  - page: Connecting to the Yoda Drive on MacOS
-    url: /using-yoda/yoda-drive-macos.html
-  - page: Connecting to the Yoda drive on Linux
-    url: /using-yoda/yoda-drive-linux.html
+  - page: Getting started with the Yoda portal
+    url: /using-yoda/getting-started-portal.html
+  - page: Connecting to the Yoda Network Disk on Windows
+    url: /using-yoda/yoda-disk-windows.html
+  - page: Connecting to the Yoda Network Disk on MacOS
+    url: /using-yoda/yoda-disk-macos.html
+  - page: Connecting to the Yoda Network Disk on Linux
+    url: /using-yoda/yoda-disk-linux.html
   - page: Using the iRODS icommands
     url: /using-yoda/icommands.html

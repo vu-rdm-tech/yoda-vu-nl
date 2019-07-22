@@ -1,6 +1,6 @@
-# Connecting to the Yoda drive on MacOS
+# Connecting to the Yoda Network Disk on MacOS
 
-You can open the Yoda drive using the Finder app. By default, the Finder icon is shown in the bottom left corner of your screen, in the Dock. Click on this icon. 
+You can open the Yoda Network Disk using the Finder app. By default, the Finder icon is shown in the bottom left corner of your screen, in the Dock. Click on this icon. 
 
 ![alt text](screenshots/macos-finder.jpg "Finder icon")
 
@@ -34,4 +34,4 @@ Press the Connect button.
 You should now see a credentials dialog. The "Connect as" setting should be set to "Registered user". You will be prompted for a name and password. If you are an employee or student at Utrecht University, your user name is your Utrecht University email address and your password is your Solis password. Other users have usually received their user name and password via email. Tick the checkbox "Remember this password in my keychain".
 Click on the connect button.
 
-You should now have a new Yoda drive location in Finder. Its name is the network address you entered before. You may have to scroll down in finder in order to see it.
+You should now have a new Yoda Network Disk location in Finder. Its name is the network address you entered before. You may have to scroll down in finder in order to see it.
