@@ -4,7 +4,7 @@ Since Yoda is based on [iRODS technology](https://irods.org), it is possible to 
 data to and from Yoda using the iRODS communication protocol. 
 This protocol supports very efficient transfer of large data files.
 
-Researchers and data managers who are familiar with using commandline tools can optionally use the [iRODS icommands tools](https://docs.irods.org/master/icommands/user/).
+Researchers and data managers who are familiar with using command line tools can optionally use the [iRODS icommands tools](https://docs.irods.org/master/icommands/user/).
 Linux packages for these tools are available from [the iRODS package repository](https://packages.irods.org/).
 After configuring your package manager to use the iRODS package repository, you will be able to install the _irods-icommands_ package.
 
