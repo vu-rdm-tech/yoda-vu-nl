@@ -1,4 +1,4 @@
-# Using Yoda at Utrecht University
+# Getting started with Yoda
 
 Yoda is a system for managing your research data. You can interact with Yoda in several ways:
 
