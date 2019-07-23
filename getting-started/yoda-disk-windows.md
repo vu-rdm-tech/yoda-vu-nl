@@ -33,7 +33,8 @@ Ensure the box "Connect using different credentials" is checked and click on the
 
 ![alt text](screenshots/screenshot-windows-connectdifcr.png "Screenshot Windows: checkbox for connecting using different credentials when mapping network drive")
  
-Enter your user name and password. Tick the checkbox "Remember my credentials". Click on the "OK" button.
+Enter your user name and password. If you are working on your personal PC or laptop, tick the checkbox "Remember my credentials". If you are working on a shared computer,
+it is better not to tick this checkbox for security reasons. Click on the "OK" button.
 
 ![alt text](screenshots/screenshot-windows-credentials.png "Screenshot Windows: dialog for entering credentials when mapping network drive")
  
