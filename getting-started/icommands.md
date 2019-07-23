@@ -20,10 +20,12 @@ Please find the configuration per environment below:
 | Dynamics of Youth    | [Configuration](#dynamics-of-youth) | |
 | Faculty of Geosciences | [Configuration](#faculty-of-geosciences) | |
 | Faculty of Humanities  | [Configuration](#faculty-of-humanities) | Humanities researchers often use the _Institutions for Open Societies_ environment rather than this faculty environment. |
+| Faculty of Law, Economics and Governance | [Configuration](#faculty-of-law-economics-and-governance)  | |
+| Faculty of Medicine |  [Configuration](#faculty-of-medicine)| |
 | Faculty of Science     |  [Configuration](#faculty-of-science)| |
 | Faculty of Social and Behavioural Sciences | [Configuration](#faculty-of-social-and-behavioural-sciences) | |
-| Faculty of Veterinary Medicine | [Configuration](#faculty-of-veterinary-medicine)| Also used by the Faculty of Medicine
-| Institutions for Open Societies | [Configuration](#institutions-for-open-societies) | Also used by the Faculty of Law, Economics and Governance, as well as the Faculty of Humanities |
+| Faculty of Veterinary Medicine | [Configuration](#faculty-of-veterinary-medicine) | |
+| Institutions for Open Societies | [Configuration](#institutions-for-open-societies) | |
 | University Corporate Offices    | [Configuration](#university-corporate-offices) | |
 
 ### Dynamics of Youth
@@ -75,6 +77,41 @@ You will only need to change the example username to your Yoda username.
     "irods_authentication_scheme": "pam"
 }
 ```
+
+### Faculty of Law, Economics and Governance
+
+Please cut and paste the below json information into your configuration file.
+You will only need to change the example username to your Yoda username.
+```
+{
+    "irods_host": "i-lab.data.uu.nl",
+    "irods_port": 1247,
+    "irods_default_resource": "irodsResc",
+    "irods_home": "/nluu5p/home",
+    "irods_cwd": "/nluu5p/home",
+    "irods_user_name": "exampleuser@uu.nl",
+    "irods_zone_name": "nluu5p",
+    "irods_authentication_scheme": "pam"
+}
+```
+
+### Faculty of Medicine
+
+Please cut and paste the below json information into your configuration file.
+You will only need to change the example username to your Yoda username.
+```
+{
+    "irods_host": "dgk.data.uu.nl",
+    "irods_port": 1247,
+    "irods_default_resource": "irodsResc2",
+    "irods_home": "/nluu9ot/home",
+    "irods_cwd": "/nluu9ot/home",
+    "irods_user_name": "exampleuser@uu.nl",
+    "irods_zone_name": "nluu9ot",
+    "irods_authentication_scheme": "pam"
+}
+```
+Note that in the future we plan to change the default resource to _irodsResc_.
 
 ### Faculty of Science
 

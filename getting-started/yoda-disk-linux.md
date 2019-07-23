@@ -13,10 +13,12 @@ Click on "+Other Locations" and enter the server address in the "Connect to Serv
 | Dynamics of Youth    | davs://youth.data.uu.nl | |
 | Faculty of Geosciences | davs://geo.data.uu.nl | |
 | Faculty of Humanities  | davs://gw.data.uu.nl | Humanities researchers often use the _Institutions for Open Societies_ environment rather than this faculty environment. |
+| Faculty of Law, Economics and Governance | davs://i-lab.data.uu.nl | |
+| Faculty of Medicine    | davs://dgk.data.uu.nl | |
 | Faculty of Science     | davs://science.data.uu.nl | |
 | Faculty of Social and Behavioural Sciences | davs://fsw.data.uu.nl | |
-| Faculty of Veterinary Medicine | davs://dgk.data.uu.nl | Also used by the Faculty of Medicine
-| Institutions for Open Societies | davs://i-lab.data.uu.nl | Also used by the Faculty of Law, Economics and Governance, as well as the Faculty of Humanities |
+| Faculty of Veterinary Medicine | davs://dgk.data.uu.nl | |
+| Institutions for Open Societies | davs://i-lab.data.uu.nl | |
 | University Corporate Offices    | davs://its.data.uu.nl  | |
 
 Then click on the Connect button.

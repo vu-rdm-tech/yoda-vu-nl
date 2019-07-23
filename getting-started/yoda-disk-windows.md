@@ -7,10 +7,12 @@ Look up the server address of your environment:
 | Dynamics of Youth    | https://youth.data.uu.nl | |
 | Faculty of Geosciences | https://geo.data.uu.nl | |
 | Faculty of Humanities  | https://gw.data.uu.nl | Humanities researchers often use the _Institutions for Open Societies_ environment rather than this faculty environment. |
+| Faculty of Law, Economics and Governance | https://i-lab.data.uu.nl | |
+| Faculty of Medicine    | https://dgk.data.uu.nl | |
 | Faculty of Science     | https://science.data.uu.nl | |
 | Faculty of Social and Behavioural Sciences | https://fsw.data.uu.nl | |
-| Faculty of Veterinary Medicine | https://dgk.data.uu.nl | Also used by the Faculty of Medicine
-| Institutions for Open Societies | https://i-lab.data.uu.nl | Also used by the Faculty of Law, Economics and Governance, as well as the Faculty of Humanities |
+| Faculty of Veterinary Medicine | https://dgk.data.uu.nl | |
+| Institutions for Open Societies | https://i-lab.data.uu.nl | |
 | University Corporate Offices    | https://its.data.uu.nl   | |
 
 ## Mapping network drive
