@@ -4,7 +4,7 @@ We welcome harvesting of our rspository by research data catalogs to further the
 Should you maintain such an online catalog then feel free to add Yoda as a source.
 ## Harvesting Yoda using the OAI-PMH protocol
 Yoda implements the repository harvesting standard 
-[Open Archives Initiative Protocol for Metadata Harvesting version 2.0] (https://www.openarchives.org).
+[Open Archives Initiative Protocol for Metadata Harvesting version 2.0](https://www.openarchives.org).
 The metadata representation follows the [Datacite4](https://datacite.org/) standard.
 
 Our repository URL is:
