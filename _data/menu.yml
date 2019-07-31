@@ -11,6 +11,8 @@ main:
 what-is-yoda:
   - page: Grant text fragments
     url: /what-is-yoda/grant-info.html
+  - page: Info for harvesters
+    url: /what-is-yoda/harvest.html
 
 getting-started:
   - page: Getting started with Yoda
