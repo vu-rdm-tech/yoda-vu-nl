@@ -9,6 +9,6 @@ The metadata representation follows the [Datacite4](https://datacite.org/) stand
 
 Our repository URL is:
 ```
-https://public.yoda.uu.nl/oai/oai/?verb=ListRecords&metadataPrefix=datacite
+https://public.yoda.uu.nl/oai/oai/?verb=Identify
 ```
 We kindly request that as a rule, harvesters visit our repository at a frequency of once a day or less.
