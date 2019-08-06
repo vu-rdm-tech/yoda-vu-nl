@@ -12,7 +12,3 @@ using the [Yoda Data Management System](https://github.com/search?q=topic%3Ayoda
 
 Please select an appropriate item from the menu.
 
-## Other, related, sites that may be of interest
-- [Research Data Management Support](https://uu.nl/rdm) 
-- [National Coordination on Research Data Management](https://lcrdm.nl/)  (LCRDM)
- 
