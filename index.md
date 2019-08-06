@@ -2,7 +2,13 @@
 Welcome to the Yoda User Help pages.
 
 ## Information on this site
-This website has practical information on the use of the Yoda Research Data Management System.
+This website has practical information on the use of the Yoda. 
+Yoda is a service that provides Utrecht University researchers and their partners with a workspace and an archive that enables them 
+to collaborate, deposit, publish and preserve research data.
+Yoda is run by a corporate multidisciplinary 
+[Research Data Management team](https://uu.nl/rdm)
+using the [Yoda Data Management System](https://github.com/search?q=topic%3Ayoda+org%3AUtrechtUniversity).
+
 Please select an appropriate item from the menu.
 
 ## Other, related, sites that may be of interest
