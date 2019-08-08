@@ -35,9 +35,7 @@ You will only need to change the example username to your Yoda username.
 {
     "irods_host": "youth.data.uu.nl",
     "irods_port": 1247,
-    "irods_default_resource": "irodsResc",
     "irods_home": "/nluu1p/home",
-    "irods_cwd": "/nluu1p/home",
     "irods_user_name": "exampleuser@uu.nl",
     "irods_zone_name": "nluu1p",
     "irods_authentication_scheme": "pam"
@@ -52,9 +50,7 @@ You will only need to change the example username to your Yoda username.
 {
     "irods_host": "geo.data.uu.nl",
     "irods_port": 1247,
-    "irods_default_resource": "irodsResc",
     "irods_home": "/nluu11p/home",
-    "irods_cwd": "/nluu11p/home",
     "irods_user_name": "exampleuser@uu.nl",
     "irods_zone_name": "nluu11p",
     "irods_authentication_scheme": "pam"
@@ -69,9 +65,7 @@ You will only need to change the example username to your Yoda username.
 {
     "irods_host": "gw.data.uu.nl",
     "irods_port": 1247,
-    "irods_default_resource": "irodsResc",
     "irods_home": "/nluu13p/home",
-    "irods_cwd": "/nluu13p/home",
     "irods_user_name": "exampleuser@uu.nl",
     "irods_zone_name": "nluu13p",
     "irods_authentication_scheme": "pam"
@@ -86,9 +80,7 @@ You will only need to change the example username to your Yoda username.
 {
     "irods_host": "i-lab.data.uu.nl",
     "irods_port": 1247,
-    "irods_default_resource": "irodsResc",
     "irods_home": "/nluu5p/home",
-    "irods_cwd": "/nluu5p/home",
     "irods_user_name": "exampleuser@uu.nl",
     "irods_zone_name": "nluu5p",
     "irods_authentication_scheme": "pam"
@@ -103,9 +95,7 @@ You will only need to change the example username to your Yoda username.
 {
     "irods_host": "dgk.data.uu.nl",
     "irods_port": 1247,
-    "irods_default_resource": "irodsResc2",
     "irods_home": "/nluu9ot/home",
-    "irods_cwd": "/nluu9ot/home",
     "irods_user_name": "exampleuser@uu.nl",
     "irods_zone_name": "nluu9ot",
     "irods_authentication_scheme": "pam"
@@ -121,9 +111,7 @@ You will only need to change the example username to your Yoda username.
 {
     "irods_host": "science.data.uu.nl",
     "irods_port": 1247,
-    "irods_default_resource": "irodsResc",
     "irods_home": "/nluu6p/home",
-    "irods_cwd": "/nluu6p/home",
     "irods_user_name": "exampleuser@uu.nl",
     "irods_zone_name": "nluu6p",
     "irods_authentication_scheme": "pam"
@@ -138,9 +126,7 @@ You will only need to change the example username to your Yoda username.
 {
     "irods_host": "fsw.data.uu.nl",
     "irods_port": 1247,
-    "irods_default_resource": "irodsResc",
     "irods_home": "/nluu10p/home",
-    "irods_cwd": "/nluu10p/home",
     "irods_user_name": "exampleuser@uu.nl",
     "irods_zone_name": "nluu10p",
     "irods_authentication_scheme": "pam"
@@ -155,9 +141,7 @@ You will only need to change the example username to your Yoda username.
 {
     "irods_host": "dgk.data.uu.nl",
     "irods_port": 1247,
-    "irods_default_resource": "irodsResc2",
     "irods_home": "/nluu9ot/home",
-    "irods_cwd": "/nluu9ot/home",
     "irods_user_name": "exampleuser@uu.nl",
     "irods_zone_name": "nluu9ot",
     "irods_authentication_scheme": "pam"
@@ -173,9 +157,7 @@ You will only need to change the example username to your Yoda username.
 {
     "irods_host": "i-lab.data.uu.nl",
     "irods_port": 1247,
-    "irods_default_resource": "irodsResc",
     "irods_home": "/nluu5p/home",
-    "irods_cwd": "/nluu5p/home",
     "irods_user_name": "exampleuser@uu.nl",
     "irods_zone_name": "nluu5p",
     "irods_authentication_scheme": "pam"
@@ -190,9 +172,7 @@ You will only need to change the example username to your Yoda username.
 {
     "irods_host": "its.data.uu.nl",
     "irods_port": 1247,
-    "irods_default_resource": "irodsResc",
     "irods_home": "/nluu12p/home",
-    "irods_cwd": "/nluu12p/home",
     "irods_user_name": "exampleuser@uu.nl",
     "irods_zone_name": "nluu12p",
     "irods_authentication_scheme": "pam"
