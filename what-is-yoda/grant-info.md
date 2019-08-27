@@ -2,7 +2,7 @@
 Funders expect researchers to provide a statement on their data management policies
 in a data management paragraph, as part of the grant application.
 In addition, a research data management plan needs to be developed and maintained 
-during the execution of the research project. 
+during the research project. 
 
 The use of Yoda can ensure that you comply with many research data management requirements. 
 Below we have enlisted several statements on Yoda that you can include in your grant application
