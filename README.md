@@ -2,7 +2,8 @@
 On this website you can find instructions, explanations and release notes of Yoda (Your data).
 
 # Wall of Fame
-All developers that have contributed to Yoda are added permanently as collaborator to this repo so that they have acess to the wall of fame (to be added). 
+All developers that have contributed to Yoda are added permanently as collaborator to this repo so that they have acess to the wall of fame (to be added).
+Updates in the wall of fame will be shared on a regular basis. 
 
 ## What is Yoda
 - [release 1.5](release-notes/release-1.5.md) (tba)
