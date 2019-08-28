@@ -8,7 +8,7 @@ After archiving your data, you can publish it, making your data findable and, de
 
 You can create an archival package in the Yoda portal. Simply navigate to the folder you want to archive and press the <Actions (Submit)> button. 
 
-![](\\soliscom.uu.nl\users\Liagr001\My Documents\Instituties\Gittest\yoda-uu-nl\functions\Submit-button.JPG)
+![Submit](Submit-button.JPG)   
 
 Before sending your data as a data package to the Vault, ensure that:
 
