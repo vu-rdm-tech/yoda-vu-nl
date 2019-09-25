@@ -1,4 +1,4 @@
-# Storing your data in Yoda #
+# Storing your data in Yoda
 
 Once you have connected the [Yoda Network Disk](../getting-started/index.md) you have access to Yoda  storage. Depending on your operating system, this could be via your File Explorer (Windows), Finder (Mac) or any other client program, like [CyberDuck](https://cyberduck.io/) or [WinSCP](https://winscp.net/eng/docs/lang:nl).
 

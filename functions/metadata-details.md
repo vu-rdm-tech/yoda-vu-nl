@@ -1,6 +1,6 @@
 
 
-# Yoda structured metadata #
+# Yoda structured metadata
 
 The Yoda metadata form consists of app. 33 fields. The table down here lists all metadata elements with a description of their function. All fields that need to be filled before data can be archived have the value 'Y' in the column Man(datory).
 
