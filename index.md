@@ -13,5 +13,4 @@ Yoda is run by a corporate multidisciplinary
 using the [Yoda Data Management System](https://github.com/search?q=topic:yoda+org:UtrechtUniversity).
 
 This website has practical information on the use of the Yoda for users starting in Yoda as well as advanced users.
-
 Please select an appropriate item from the menu.
