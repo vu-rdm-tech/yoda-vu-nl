@@ -3,6 +3,8 @@ main:
     url: /what-is-yoda/index.html
   - title: Getting started with Yoda
     url: /getting-started/index.html
+  - title: User guide
+    url: /functions/index.html
   - title: Contact
     url: /contact/index.html
   - title: Terms of Use
@@ -27,18 +29,16 @@ getting-started:
     url: /getting-started/yoda-disk-linux.html
   - page: Using the iRODS icommands
     url: /getting-started/icommands.html
-  - page: Yoda basic functions
-    url: /functions/index.html
 
 functions:
-  - page: Archiving
-    url: /functions/Archiving.html
-  - page: Publishing
-    url: /functions/Publishing.html
-  - page: Adding metadata
-    url: /functions/Add-metadata.html
-  - page: Storing data
+  - page: Store/retrieve data
     url: /functions/Storing-data.html
-  - page: User management
+  - page: Collaborate, manage user access
     url: /functions/User-management.html
+  - page: Add metadata 
+    url: /functions/Add-metadata.html
+  - page: Archive data
+    url: /functions/Archiving.html
+  - page: Publish data
+    url: /functions/Publishing.html
     
