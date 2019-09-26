@@ -4,8 +4,8 @@ All the data you save on Yoda is stored in compartments accessible only by membe
 Top-level folders starting with the prefix 'research-' delimit a data compartment. The folder is named after the Yoda group.
 All the files and folders underneath this top-level folder are visible and accessible only to the group.
 
-The Yoda data manager can create an additional compartment should you need to collaborate with a different set of researchers.  
-To be granted the privilege of creating your own groups, please contact the Yoda data manager. 
+The Yoda data manager can create additional compartments should you need to collaborate with a different set of researchers.  
+To be able to do this yourselves, please also contact the Yoda data manager. 
 
 Some general remarks on Yoda groups:
 
@@ -36,16 +36,16 @@ To create a new group, navigate to the Yoda portal, log on and select Group Mana
 
 ## How to add/remove users (employees/students) to a Yoda group
 
-You can only add users to a user-group if you have management-rights for that group.
+You need to have Manager rights within the group to add or remove users.
 
 To add/remove a user, select Group Manager in the top-level menu of the Yoda Portal
 
 - In the left side of the page, select the group you want to add or remove users
 - The right side of the page will display a list of all users that are member of the group
 
-- To add a user: click on Click here to add a new user to this group 
-- Fill out the Utrecht University solis-email address of the user you want to add and press add user. N.B. the address must be entirely in lower case.
-- To remove a user: select the user you want to remove and click the button <Remove User>
+- To add a user: click on the text "Click here..." to add a new user to this group 
+- Fill out the Utrecht University solis-email address of the user you want to add and press add user. The address must be entered entirely in lower case.
+- To remove a user: select the user you want to remove and click the button "Remove User"
 
 
 
@@ -55,7 +55,7 @@ To add/remove a user, select Group Manager in the top-level menu of the Yoda Por
 
 ## How to add an external person to a group
 
-To add a non-UU user, follow the same procedure as for procedure described in the previous section. However, instead of a  solis-mail address you fill out the persons own mail-address. He/she will be notified by email that an account has been created and be asked to set a password.
+Follow the same procedure as for procedure described in the previous section. However, instead of a  solis-mail address you fill out the person's organizational or private mail-address. He/she will be notified by email that an account has been created and be asked to set a password.
 You, the host, will receive two email notifications: one to confirm the invitation and one when the user has set a password and therefore can access Yoda.
 
 ## Change access rights for group-members
