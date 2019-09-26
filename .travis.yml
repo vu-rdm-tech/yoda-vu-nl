@@ -15,7 +15,7 @@ install:
 
 script:
 - bundle exec jekyll build
-- htmlproofer _site --alt-ignore '/assets/images/header.jpg' --http-status-ignore "401"
+- htmlproofer _site --alt-ignore '/assets/images/header.jpg' --http-status-ignore "401,429" --url-ignore "/scopus.com/"
 
 notifications:
   email:
