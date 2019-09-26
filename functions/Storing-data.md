@@ -2,7 +2,7 @@
 
 To work with data, first add the [Yoda Network Disk](../getting-started/index.md) 
 to your workstation. Once this is done you can use your existing workstation applications and tools to
-process Yoda data jsut like you would process locally stored data.
+process Yoda data just like you would process locally stored data.
 
 
 You will have access to the data compartments of user-groups for which you have been registered.  
