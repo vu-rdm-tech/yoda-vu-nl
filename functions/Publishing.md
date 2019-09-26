@@ -7,7 +7,7 @@ By publishing your data:
 - The metadata description of your data will be included in data catalogs such as [Dans NARCIS](https://www.narcis.nl/?Language=nl) or [DataCite](https://search.datacite.org/).
 
 **Take Note:**
-*By 'publishing' your data package, you're actually making the Yoda metadata of your data package publicly accessible,* **not** *the data itself; the metadata , which you have created by filling in the metadata form in the Yoda Portal, will be published in the data catalogues mentioned above.*
+*By 'publishing' your data package, you're actually making the Yoda metadata of your data package publicly accessible,* **not** *the data itself. The metadata, which you have created by filling in the metadata form in the Yoda Portal, will be included and can be found in data catalogs such as mentioned above.*
 
 *Optionally the data itself can be set to be downloadable via the internet as well. To do so, specify in the metadata field Access Type the value "Open - Freely retrievable".  Other access type value (Restricted, Closed) are possible, in that case the data itself is not downloadable.*
 
@@ -16,7 +16,9 @@ You can only publish archived data packages. You do so by opening the *Yoda Port
 
 ![SubmitforPublications](SubmitforPublications.JPG)
 
-If you can't locate your data package, you can also search for unpublished data packages using the search-on-status function. The result is a list of all vaults accessible to you as logged in Yoda portal user, containing unpublished data packages. By clicking on one of the results, you automatically navigate to that particular data packages.
+Yoda users can also opt to find data that is archived but not (or not yet) published. This is performed in the Yoda portal using the search-by-status function. 
+Note that the list of data packages found will be include only the data packages residing in data compartments of which you are a member.
+By clicking on one of the results, you automatically navigate to that particular data packages.
 
 ![Unpublished data packages](Unpublished-Packages.JPG)
 
