@@ -59,12 +59,12 @@ If the group no longer exists you can request access to the data-package via the
 ## Maintenance of an archived data package
 Once your data has been secured in the Yoda Vault, it will remain there for at least the number of years that you have indicated in the metadata.  
 
-During this retention time the data files will be checked regularly for [data-rot](https://en.wikipedia.org/wiki/Data_degradation). Affected files will be replaced with a back-up.
+During this retention time the data files will be checked regularly to protect against [data-degradation](https://en.wikipedia.org/wiki/Data_degradation). Affected files will be replaced with a back-up. The Yoda data is automatically replicated and kept in two geographically separated locations.
 
 Yoda preserves your files in their original state. Should you desire to have files _curated_, that means to convert the files to newer file formats as they become available, then contact the datamanager to make such arrangements. 
 Curation may involve significant costs to the faculty or research program due to involvement of third party experts that know how to transform specific formats.  
 
 A best practice to avoid high curation costs is to store your data in open formats. 
-When this is not achievable, for instance an application processes data files in vendor-specific formats then try to find a method to export the data to an open format and store that as a copy in the same data package. 
+When this is not achievable, for instance an application processes data files in vendor-specific formats then try to find a method to export the data to an open format and store that export file as a copy in the same data package. 
 
-DANS is a national curation expertise body. They maintain a list of [open file formats](https://dans.knaw.nl/en/about/services/easy/information-about-depositing-data/before-depositing/file-formats).
+DANS is a Dutch national research related organization that has extensive curation expertise. They maintain a list of [open file formats](https://dans.knaw.nl/en/about/services/easy/information-about-depositing-data/before-depositing/file-formats).
