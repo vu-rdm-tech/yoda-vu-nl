@@ -13,7 +13,7 @@ implementation of an iRODS protocol client.
 
 Native iRODS iCommands packages are available for CentOS and Ubuntu.
 
-Windows 10 users can run the iCommands in the [the Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/about).
+Windows 10 users can run the iCommands in [the Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/about).
 MacOS users can run the commands inside a Linux VM.
 
 ### Installing iCommands on CentOS
