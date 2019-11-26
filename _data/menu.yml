@@ -39,6 +39,6 @@ functions:
     url: /functions/Add-metadata.html
   - page: Archive data
     url: /functions/Archiving.html
-  - page: Publish data
+  - page: Publishing a data package
     url: /functions/Publishing.html
     

@@ -1,34 +1,27 @@
-# Publishing your Data Package
-Having archived your data as a data package, you have made it into a ‘comprehensible’ data package. You can now choose to publish your data.
+# Publishing a data package
 
-By publishing your data:
+After a data package has been archived in the vault, it can optionally be submitted for publication.
 
-- Your data package will get a [DOI](https://www.doi.org/) assigned to it, a persistent identifier you can use as a reference to your data, e.g. in a scientific publication.
-- The metadata description of your data will be included in data catalogs such as [Dans NARCIS](https://www.narcis.nl/?Language=nl) or [DataCite](https://search.datacite.org/).
+Publishing a data package has the following effects:
 
-**Take Note:**
-*By 'publishing' your data package, you're actually making the Yoda metadata of your data package publicly accessible,* **not** *the data itself. The metadata, which you have created by filling in the metadata form in the Yoda Portal, will be included and can be found in data catalogs such as mentioned above.*
+- A [DOI](https://www.doi.org/) will be assigned to the data package. This persistent identifier can be used to refer to the data package, e.g. in a scientific publication.
+- The metadata of the data package will be published in data catalogs such as [Dans NARCIS](https://www.narcis.nl/?Language=nl) and [DataCite](https://search.datacite.org/).
+- If the Access Type metadata field is set to &ldquo;Open - Freely retrievable&rdquo;, the data in the data package will be published as well. If the Access Type metadata field is set to &ldquo;Restricted&rdquo; or &ldquo;Closed&rdquo;, the data in the data package won't be published.
 
-*Optionally the data itself can be set to be downloadable via the internet as well. To do so, specify in the metadata field Access Type the value "Open - Freely retrievable".  Other access type value (Restricted, Closed) are possible, in that case the data itself is not downloadable.*
-
-## Publishing your Data Package
-You can only publish archived data packages. You do so by opening the *Yoda Portal,* navigate to a data package in your vault and press the <Publish> button.
+To submit a data package for publication, navigate to the data package in the vault and press the &ldquo;Publish&rdquo; button.
 
 ![SubmitforPublications](SubmitforPublications.JPG)
 
-Yoda users can also opt to find data that is archived but not (or not yet) published. This is performed in the Yoda portal using the search-by-status function. 
-Note that the list of data packages found will be include only the data packages residing in data compartments of which you are a member.
-By clicking on one of the results, you automatically navigate to that particular data packages.
+You can search for data that is archived but not (yet) published using the &ldquo;Search by Status&rdquo; function in the Yoda Portal.
+The list of data packages will include only the data packages in data compartments of which you are a member.
+Click on a data package in the results list in order to view it.
 
 ![Unpublished data packages](Unpublished-Packages.JPG)
 
-Once you’ve published a data package the data manager is notified and will checks whether:
+Once you’ve submitted a data package for publication, the data manager of your Yoda community will be notified. He or
+she will check that the data package meets various criteria for publication, such as:
+- The data package has a valid license type.
+- The access type of the data package is consistent with laws and regulations, including information privacy laws.
 
-- A valid *License type* has been defined in the metadata of the data package.
-
-- The *Access Type*  in the metadata of the data package is in line with rules and regulations with regards to sensitive and private data
-
-If the data manager finds anything missing, he/she will contact you. Otherwise you'll receive a notification per mail containing your DOI.
-
-
-
+If the data manager encounters any issues, he or she will contact you. Otherwise you'll receive an email notification that your data package has been
+published. This notification contains the DOI that has been assigned to your data package.
