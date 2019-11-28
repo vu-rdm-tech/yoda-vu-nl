@@ -1,8 +1,7 @@
-# What is Yoda
-Yoda is a service that provides Utrecht University researchers and their partners with a workspace and an archive that enables them to collaborate, deposit, publish and preserve research data.   
-Yoda is run by a corporate multidisciplinary Research Data Management team.
+# About Yoda
 
-![Yoda](yoda-kleur.png)   
-Yoda is also the name of the underlying software, which is a 
-research data management solution developed by Utrecht University and used by
-multiple institutes around the world. 
+Yoda is a research data management service. It enables Utrecht University researchers and their partners to deposit,
+publish and preserve research data. The service is managed and supported by an interdisciplinary team of university employees.
+
+Yoda is also the name of the research data management software that the Yoda service is based on. The software has been developed at
+Utrecht University and is used by multiple organizations, both in the Netherlands and abroad.
