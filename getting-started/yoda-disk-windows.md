@@ -62,4 +62,4 @@ Enter your user name and password.
 
 ![alt text](screenshots/screenshot-winscp-login-credentials.png "Screenshot WinSCP: host name setting")
 
-Click on the Save button and then on the Login button. WinSCP should now open your Yoda Drive.
+Click on the Save button and then on the Login button. WinSCP should now open your Yoda Network Disk.
