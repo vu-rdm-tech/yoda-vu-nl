@@ -1,6 +1,6 @@
 # Information for harvesters
-The Yoda repository includes among others published data packages. 
-We welcome harvesting of our rspository by research data catalogs to further the findability of our data.
+The Yoda repository contains published data packages.
+We welcome harvesting of our repository by research data catalogs to further the findability of our data.
 Should you maintain such an online catalog then feel free to add Yoda as a source.
 ## Harvesting Yoda using the OAI-PMH protocol
 Yoda implements the repository harvesting standard 
