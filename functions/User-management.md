@@ -1,80 +1,92 @@
-# Collaborate, manage user access
+# Managing groups, users and access rights
 
-All the data you save on Yoda is stored in compartments accessible only by members of a Yoda group. 
-Top-level folders starting with the prefix 'research-' delimit a data compartment. The folder is named after the Yoda group.
-All the files and folders underneath this top-level folder are visible and accessible only to the group.
+All data in Yoda is stored in data compartments. Each data compartment has a top-level folder for research data.
+The name of such a research folder, also known as a research group, always starts with &ldquo;research-&rdquo;.
+Files in a research group are only visible and accessible to users who have been granted access to that group.
 
-The Yoda data manager can create additional compartments should you need to collaborate with a different set of researchers.  
-To be able to do this yourselves, please also contact the Yoda data manager. 
+Users can have three different roles in a group:
+- Member with read-only access: is able to view or download files in the group.
+- Regular member: can view, download, upload, modify or delete files and folders in the group.
+- Group manager: is able to grant and revoke access rights for the group. Can also view, download, upload, modify
+  or delete files and folders in the group.
 
-Some general remarks on Yoda groups:
+## Creating a new Yoda group
 
-- There are three possible roles for a user: manager, researcher and reader.
-  - Manager: add/remove users, grant/revoke user rights, and all rights related to the role Researcher.
-  - Researcher: read/write/delete files and folders, submit to vault, publish.
-  - Reader: read files.
-- Groups can only be created/removed in the Yoda Portal.
-- Once created, a group cannot be renamed.
+In some cases, it can be useful to have multiple data compartments for one project. For example, you might want to
+have one data compartment with nonsensitive data that is shared with collaborators, as well as a second data
+compartment with sensitive data that is only accessible to the principal investigator. 
 
+There are two prerequisites for creating a new group:
+- You need to have a group manager role in an existing group in the same community.
+- You need to have been granted a system-wide right to create groups  
 
-
-## How to create a Yoda group
-
-There are two prerequisites before you can create a new group:
-- you need to be a Manager in another, existing group (within the same community)
-- you need to have been granted a system-wide right to create groups  
-
-To create a new group, navigate to the Yoda portal, log on and select Group Manager in the top-menu. Then:
-
-- In the left pane of the Group Manager, titled Yoda Groups, select any existing group and press Add Group.
-- A dialog starts to help you through the procedure:
-  - Please note that only lowercase names are allowed. You can freely choose the name for the group, which will automatically be pre-fixed by 'research-'. .
+If you are authorized to create a new group, you can do so in the following way:
+- Navigate to the [Yoda portal](../getting-started/getting-started-portal.html).
+- Log in
+- Select &ldquo;Group Manager&rdquo; in the top menu.
+- In the left pane of the Group Manager, select any existing group in the community.
+- Press the &ldquo;Add group&rdquo; button at the bottom of the screen.
+- A dialog will open. Enter the name of the group in the &ldquo;Group name&ldquo; field. The &ldquo;research-&rdquo; prefix
+  is selected by default and should not be changed. Only lowercase letters and numbers can be used in group names.
+- Click on &ldquo;Add group&rdquo; to finish the process.
 
 ![create Yoda group](create-user-group.jpg)
 
+Once created, a group cannot be renamed.
 
+If you are not authorized to create a group yourself, you can ask your data manager to create one.
 
-## How to add/remove users (employees/students) to a Yoda group
+## Granting access to a group
 
-You need to have Manager rights within the group to add or remove users.
-
-To add/remove a user, select Group Manager in the top-level menu of the Yoda Portal
-
-- In the left side of the page, select the group you want to add or remove users
-- The right side of the page will display a list of all users that are member of the group
-
-- To add a user: click on the text "Click here..." to add a new user to this group 
-- Fill out the Utrecht University solis-email address of the user you want to add and press add user. The address must be entered entirely in lower case.
-- To remove a user: select the user you want to remove and click the button "Remove User"
-
-
+If you are the group manager of a group, you will be able to add users to the group in the following way:
+- Navigate to the [Yoda portal](../getting-started/getting-started-portal.html).
+- Log in
+- Select &ldquo;Group Manager&rdquo; in the top menu.
+- In the left pane of the Group Manager, select the group
+- Click on the link &ldquo;Click here to add a new user to the group&rdquo;.
+- Enter the email address of the user. The address must be entered entirely in lower case.
 
 ![Adding user](Adding-user.jpg)
 
+A student or employee with an Utrecht University email address will be able to log in using his or her email address and
+Solis password. Users with an external email address will receive an invitation link that can be used to create an account.
+In this case, you (the host) will receive two email notifications: one to confirm the invitation and one to confirm that the user has
+registered his or her account.
 
+By default, a new user will be a regular member of the group. If you want the user to be a member with read-only access or
+a group manager, see below for how to change users' roles.
 
-## How to add an external person to a group
+## Changing the role of a user in a group
 
-Follow the same procedure as for procedure described in the previous section. However, instead of a  solis-mail address you fill out the person's organizational or private mail-address. He/she will be notified by email that an account has been created and be asked to set a password.
-You, the host, will receive two email notifications: one to confirm the invitation and one when the user has set a password and therefore can access Yoda.
+If you are the group manager of a group, you will be able to alter the role of other members.
 
-## Change access rights for group-members
+Users can have three different roles in a group:
+- Member with read-only access: is able to view or download files in the group.
+- Regular member: can view, download, upload, modify or delete files and folders in the group.
+- Group manager: is able to grant and revoke access rights for the group. Can also view, download, upload, modify
+  or delete files and folders in the group.
 
-Within a group a user can have either one of the following rights
-
-- Read – represented by an icon depicting an eye
-
-- Read/write – represented by an icon depicting a persons head
-
-- Manage – represented by an icon a medieval tower
-
-To change the rights of user:
-
-- Navigate to the Group Manager in the Yoda Portal
-
-- In the left side of the page, click/select the group
-- In the right side of the page, a list of the users is displayed
-- Select the user and press one of the buttons next to Change Role. 
-The button with the up-arrow will grant more encompassing rights, the button with the down-arrow will downgrade rights.
+In order to change the role of a group member:
+- Navigate to the [Yoda portal](../getting-started/getting-started-portal.html).
+- Log in
+- Select &ldquo;Group Manager&rdquo; in the top menu.
+- In the left pane of the Group Manager, select the group.
+- In the right pane of the Group Manager, select the user.
+- Press one of the buttons next to the &ldquo;Change role&rdquo; label to change the user's role.
+  The button with the upward pointing arrow will grant a role with more rights, whereas the button
+  with the downward pointing arrow will grant a role with fewer rights. The meaning of the icons is:
+   * Crenellated tower: group manager
+   * Person's head: regular member
+   * Eye: member with read-only access
 
 ![Setting user rights](Setting-user-rights.jpg)
+
+## Revoking access to a group
+
+If you are the group manager of a group, you will be able to revoke access to a group in the following way:
+- Navigate to the [Yoda portal](../getting-started/getting-started-portal.html).
+- Log in
+- Select &ldquo;Group Manager&rdquo; in the top menu.
+- In the left pane of the Group Manager, select the group.
+- In the right pane of the Group Manager, select the user.
+- Click on the red &ldquo;Remove user&rdquo; button.

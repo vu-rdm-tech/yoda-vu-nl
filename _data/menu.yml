@@ -33,7 +33,7 @@ getting-started:
 functions:
   - page: Storing data in Yoda
     url: /functions/Storing-data.html
-  - page: Collaborate, manage user access
+  - page: Managing groups, users and access rights
     url: /functions/User-management.html
   - page: Add metadata 
     url: /functions/Add-metadata.html
