@@ -25,7 +25,9 @@ Then click on the Connect button.
 
 ![alt text](screenshots/linux-enter-password.png "GNOME Files password dialog screenshot")
 
-You will be prompted for a name and password. If you are an employee or student at Utrecht University, your user name is your Utrecht University email address and your password is your Solis password. Other users have usually received their user name and password via email. Click on the connect button.
+You will be prompted for a name and password.
+If you are an employee or student at Utrecht University, your user name is your Utrecht University email address (in lowercase) and your password
+is your Solis password.  External users have usually received their user name via email, along with a link to set their password.
 
 ## Using command line tools
 

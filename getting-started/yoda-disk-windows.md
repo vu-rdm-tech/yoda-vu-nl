@@ -25,7 +25,7 @@ Open the Computer menu item and select "Map network drive".
 
 ![alt text](screenshots/screenshot-windows-mapnwdrive.png "Screenshot Windows: Map network drive icon in This PC")
  
-Select a drive letter - any free letter is okay. Now enter the server address of the environment in the Folder field (see table above).
+Select a drive letter &mdash; any free letter is okay. Now enter the server address of the environment in the Folder field (see table above).
 
 ![alt text](screenshots/screenshot-windows-connectfolder.png "Screenshot Windows: folder input field when mapping network drive")
 
@@ -33,8 +33,11 @@ Ensure the box "Connect using different credentials" is checked and click on the
 
 ![alt text](screenshots/screenshot-windows-connectdifcr.png "Screenshot Windows: checkbox for connecting using different credentials when mapping network drive")
  
-Enter your user name and password. If you are working on your personal PC or laptop, tick the checkbox "Remember my credentials". If you are working on a shared computer,
-it is better not to tick this checkbox for security reasons. Click on the "OK" button.
+You will be prompted for a name and password.
+If you are an employee or student at Utrecht University, your user name is your Utrecht University email address (in lowercase) and your password
+is your Solis password. External users have usually received their user name via email, along with a link to set their password.
+If you are working on your personal PC or laptop, tick the checkbox "Remember my credentials". If you are working on a shared computer, it is
+better not to tick this checkbox for security reasons. Click on the "OK" button.
 
 ![alt text](screenshots/screenshot-windows-credentials.png "Screenshot Windows: dialog for entering credentials when mapping network drive")
  
@@ -58,7 +61,9 @@ Enter the server address of your environment (see table above) in the Host name 
 
 ![alt text](screenshots/screenshot-winscp-login-host.png "Screenshot WinSCP: host name setting")
 
-Enter your user name and password. 
+You will be prompted for a name and password.
+If you are an employee or student at Utrecht University, your user name is your Utrecht University email address (in lowercase) and your password
+is your Solis password. External users have usually received their user name via email, along with a link to set their password.
 
 ![alt text](screenshots/screenshot-winscp-login-credentials.png "Screenshot WinSCP: host name setting")
 

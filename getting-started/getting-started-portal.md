@@ -18,7 +18,9 @@ Go to the address of the Yoda portal for your environment:
 | Institutions for Open Societies | [https://i-lab.yoda.uu.nl](https://i-lab.yoda.uu.nl) | |
 | University Corporate Offices    | [https://its.yoda.uu.nl](https://its.yoda.uu.nl)   | |
 
-Log in using the "Sign in" button. You will be prompted for your user name and password. If you are an employee or student at Utrecht University, your user name is your Utrecht University email address. Your password is your Solis password. Other users have usually received their user name and password via email.
+Log in using the "Sign in" button. You will be prompted for your user name and password. If you are an employee or student at Utrecht University,
+your user name is your Utrecht University email address (in lowercase). Your password is your Solis password. External users have usually received their user name
+via email, along with a link to set their password.
 
 ## Overview of the Yoda Portal
 
