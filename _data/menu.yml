@@ -37,7 +37,7 @@ functions:
     url: /functions/User-management.html
   - page: Adding and reusing metadata
     url: /functions/Add-metadata.html
-  - page: Archive data
+  - page: Archiving data
     url: /functions/Archiving.html
   - page: Publishing a data package
     url: /functions/Publishing.html
