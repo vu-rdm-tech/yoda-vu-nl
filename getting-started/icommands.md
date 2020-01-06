@@ -23,16 +23,17 @@ iRODS currently supports CentOS 7. As of November 2019, CentOS 8 is not supporte
 Use these commands to install the iCommands package on CentOS 7:
 
 ```
-sudo yum -y install wget epel-release
+sudo yum -y install wget epel-release yum-plugin-versionlock
 sudo rpm --import https://packages.irods.org/irods-signing-key.asc
 wget -qO - https://packages.irods.org/renci-irods.yum.repo | sudo tee /etc/yum.repos.d/renci-irods.yum.repo
-sudo yum -y install irods-icommands
+sudo yum -y install irods-runtime-4.2.6 irods-icommands-4.2.6
+sudo yum versionlock irods-runtime irods-icommands
 ```
 
 ### Installing iCommands on Ubuntu
 
 iRODS currently supports Ubuntu 16.04 LTS officially. Although Ubuntu 18.04 LTS is not supported officially,
-as of November 2019, the iCommands work fine on this distribution.
+as of November 2019, the iCommands work on this distribution.
 
 Use these commands to install the iCommands package on Ubuntu 16.04 LTS or Ubuntu 18.04 LTS:
 
@@ -40,7 +41,8 @@ Use these commands to install the iCommands package on Ubuntu 16.04 LTS or Ubunt
 wget -qO - https://packages.irods.org/irods-signing-key.asc | sudo apt-key add -
 echo "deb [arch=amd64] https://packages.irods.org/apt/ xenial main" | sudo tee /etc/apt/sources.list.d/renci-irods.list
 sudo apt-get update
-sudo apt -y install irods-icommands
+sudo apt -y install aptitude irods-runtime=4.2.6 irods-icommands=4.2.6
+sudo aptitude hold irods-runtime irods-icommands
 ```
 
 ## Configuration
