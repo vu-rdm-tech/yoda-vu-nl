@@ -14,6 +14,7 @@ Look up the server address of your environment:
 | Faculty of Veterinary Medicine | https://dgk.data.uu.nl | |
 | Institutions for Open Societies | https://i-lab.data.uu.nl | |
 | University Corporate Offices    | https://its.data.uu.nl   | |
+| SCOOP Consortium | https://scoop-disk.data.rug.nl | |
 
 ## Mapping network drive
 

@@ -20,6 +20,7 @@ Click on "+Other Locations" and enter the server address in the "Connect to Serv
 | Faculty of Veterinary Medicine | davs://dgk.data.uu.nl | |
 | Institutions for Open Societies | davs://i-lab.data.uu.nl | |
 | University Corporate Offices    | davs://its.data.uu.nl  | |
+| SCOOP Consortium | davs://scoop-disk.data.rug.nl | |
 
 Then click on the Connect button.
 

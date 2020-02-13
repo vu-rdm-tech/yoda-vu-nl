@@ -17,6 +17,7 @@ Go to the address of the Yoda portal for your environment:
 | Faculty of Veterinary Medicine | [https://dgk.yoda.uu.nl](https://dgk.yoda.uu.nl) | |
 | Institutions for Open Societies | [https://i-lab.yoda.uu.nl](https://i-lab.yoda.uu.nl) | |
 | University Corporate Offices    | [https://its.yoda.uu.nl](https://its.yoda.uu.nl)   | |
+| SCOOP Consortium | [https://scoop-portal.data.rug.nl](https://scoop-portal.data.rug.nl)  | NB: UU users need an application specific password |
 
 Log in using the "Sign in" button. You will be prompted for your user name and password. If you are an employee or student at Utrecht University,
 your user name is your Utrecht University email address (in lowercase). Your password is your Solis password. External users have usually received their user name

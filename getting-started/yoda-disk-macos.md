@@ -24,6 +24,7 @@ Enter the server address of your environment:
 | Faculty of Veterinary Medicine | https://dgk.data.uu.nl | |
 | Institutions for Open Societies | https://i-lab.data.uu.nl | |
 | University Corporate Offices    | https://its.data.uu.nl   | |
+| SCOOP Consortium | https://scoop-disk.data.rug.nl | |
 
 The Finder app will show a confirmation dialog, similar to the one below. The address shown in the dialog should be the address you entered in the previous dialog.
 
