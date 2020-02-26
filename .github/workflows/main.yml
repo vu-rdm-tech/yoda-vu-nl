@@ -35,6 +35,7 @@ jobs:
 
     - name: Run basic HTML checks
       run: |
+        sudo apt-get update
         sudo apt-get install -y libxslt-dev libxml2-dev zlib1g-dev
         gem install html-proofer --no-document
         htmlproofer _site --alt-ignore '/assets/images/header.jpg' --disable-external
