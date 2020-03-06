@@ -77,7 +77,12 @@ You will need to change the example user name to your Yoda user name.
     "irods_home": "/nluu1p/home",
     "irods_user_name": "exampleuser@uu.nl",
     "irods_zone_name": "nluu1p",
-    "irods_authentication_scheme": "pam"
+    "irods_authentication_scheme": "pam",
+    "irods_encryption_algorithm": "AES-256-CBC",
+    "irods_encryption_key_size": 32,
+    "irods_encryption_num_hash_rounds": 16,
+    "irods_encryption_salt_size": 8,
+    "irods_client_server_negotiation": "request_server_negotiation"
 }
 ```
 
@@ -95,7 +100,12 @@ You will need to change the example user name to your Yoda user name.
     "irods_home": "/nluu11p/home",
     "irods_user_name": "exampleuser@uu.nl",
     "irods_zone_name": "nluu11p",
-    "irods_authentication_scheme": "pam"
+    "irods_authentication_scheme": "pam",
+    "irods_encryption_algorithm": "AES-256-CBC",
+    "irods_encryption_key_size": 32,
+    "irods_encryption_num_hash_rounds": 16,
+    "irods_encryption_salt_size": 8,
+    "irods_client_server_negotiation": "request_server_negotiation"
 }
 ```
 
@@ -113,7 +123,12 @@ You will need to change the example user name to your Yoda user name.
     "irods_home": "/nluu13p/home",
     "irods_user_name": "exampleuser@uu.nl",
     "irods_zone_name": "nluu13p",
-    "irods_authentication_scheme": "pam"
+    "irods_authentication_scheme": "pam",
+    "irods_encryption_algorithm": "AES-256-CBC",
+    "irods_encryption_key_size": 32,
+    "irods_encryption_num_hash_rounds": 16,
+    "irods_encryption_salt_size": 8,
+    "irods_client_server_negotiation": "request_server_negotiation"
 }
 ```
 
@@ -131,7 +146,12 @@ You will need to change the example user name to your Yoda user name.
     "irods_home": "/nluu5p/home",
     "irods_user_name": "exampleuser@uu.nl",
     "irods_zone_name": "nluu5p",
-    "irods_authentication_scheme": "pam"
+    "irods_authentication_scheme": "pam",
+    "irods_encryption_algorithm": "AES-256-CBC",
+    "irods_encryption_key_size": 32,
+    "irods_encryption_num_hash_rounds": 16,
+    "irods_encryption_salt_size": 8,
+    "irods_client_server_negotiation": "request_server_negotiation"
 }
 ```
 
@@ -148,7 +168,12 @@ You will need to change the example user name to your Yoda user name.
     "irods_home": "/nluu9ot/home",
     "irods_user_name": "exampleuser@uu.nl",
     "irods_zone_name": "nluu9ot",
-    "irods_authentication_scheme": "pam"
+    "irods_authentication_scheme": "pam",
+    "irods_encryption_algorithm": "AES-256-CBC",
+    "irods_encryption_key_size": 32,
+    "irods_encryption_num_hash_rounds": 16,
+    "irods_encryption_salt_size": 8,
+    "irods_client_server_negotiation": "request_server_negotiation"
 }
 ```
 Note that in the future we plan to change the default resource to _irodsResc_.
@@ -167,7 +192,12 @@ You will need to change the example user name to your Yoda user name.
     "irods_home": "/nluu6p/home",
     "irods_user_name": "exampleuser@uu.nl",
     "irods_zone_name": "nluu6p",
-    "irods_authentication_scheme": "pam"
+    "irods_authentication_scheme": "pam",
+    "irods_encryption_algorithm": "AES-256-CBC",
+    "irods_encryption_key_size": 32,
+    "irods_encryption_num_hash_rounds": 16,
+    "irods_encryption_salt_size": 8,
+    "irods_client_server_negotiation": "request_server_negotiation"
 }
 ```
 
@@ -185,7 +215,12 @@ You will need to change the example user name to your Yoda user name.
     "irods_home": "/nluu10p/home",
     "irods_user_name": "exampleuser@uu.nl",
     "irods_zone_name": "nluu10p",
-    "irods_authentication_scheme": "pam"
+    "irods_authentication_scheme": "pam",
+    "irods_encryption_algorithm": "AES-256-CBC",
+    "irods_encryption_key_size": 32,
+    "irods_encryption_num_hash_rounds": 16,
+    "irods_encryption_salt_size": 8,
+    "irods_client_server_negotiation": "request_server_negotiation"
 }
 ```
 
@@ -203,7 +238,12 @@ You will need to change the example user name to your Yoda user name.
     "irods_home": "/nluu9ot/home",
     "irods_user_name": "exampleuser@uu.nl",
     "irods_zone_name": "nluu9ot",
-    "irods_authentication_scheme": "pam"
+    "irods_authentication_scheme": "pam",
+    "irods_encryption_algorithm": "AES-256-CBC",
+    "irods_encryption_key_size": 32,
+    "irods_encryption_num_hash_rounds": 16,
+    "irods_encryption_salt_size": 8,
+    "irods_client_server_negotiation": "request_server_negotiation"
 }
 ```
 
@@ -223,7 +263,12 @@ You will need to change the example user name to your Yoda user name.
     "irods_home": "/nluu5p/home",
     "irods_user_name": "exampleuser@uu.nl",
     "irods_zone_name": "nluu5p",
-    "irods_authentication_scheme": "pam"
+    "irods_authentication_scheme": "pam",
+    "irods_encryption_algorithm": "AES-256-CBC",
+    "irods_encryption_key_size": 32,
+    "irods_encryption_num_hash_rounds": 16,
+    "irods_encryption_salt_size": 8,
+    "irods_client_server_negotiation": "request_server_negotiation"
 }
 ```
 
@@ -241,7 +286,12 @@ You will need to change the example user name to your Yoda user name.
     "irods_home": "/nluu12p/home",
     "irods_user_name": "exampleuser@uu.nl",
     "irods_zone_name": "nluu12p",
-    "irods_authentication_scheme": "pam"
+    "irods_authentication_scheme": "pam",
+    "irods_encryption_algorithm": "AES-256-CBC",
+    "irods_encryption_key_size": 32,
+    "irods_encryption_num_hash_rounds": 16,
+    "irods_encryption_salt_size": 8,
+    "irods_client_server_negotiation": "request_server_negotiation"
 }
 ```
 
