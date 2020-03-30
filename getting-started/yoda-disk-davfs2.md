@@ -70,7 +70,7 @@ Install this secrets file as the global davfs2 secrets file:
 
 ## Mounting the Yoda Network Disk
 
-The disk should automatically if you have configured the &ldquo;auto&rdquo; option in /etc/fstab
+The disk should be mounted automatically after a reboot if you have configured the &ldquo;auto&rdquo; option in /etc/fstab.
 
 To manually mount the Yoda Network Disk:
 - On Debian/Ubuntu: _mount /mnt_
