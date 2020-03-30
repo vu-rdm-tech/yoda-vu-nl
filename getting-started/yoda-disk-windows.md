@@ -9,7 +9,7 @@ Look up the server address of your environment:
 
 
 ## Alternative: use WinSCP
-.
+
 If you experience problems with accessing data using a mapped network drive, you can alternatively
 use a different client program for accessing data in Yoda, such as [WinSCP](https://winscp.net).
 
