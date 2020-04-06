@@ -53,7 +53,12 @@ Please find the configuration for each environment below:
 
 | Environment          | Configuration | Remarks                  |
 |:-------------------- |:------------|:-------------------------|
-| Dynamics of Youth    | [Configuration](#dynamics-of-youth) | |
+| AIMMS pilot | [Configuration](#AIMMS) | |
+| Surf Yoda pilots | [Configuration](#SURF) | |
+
+| Environment          | Configuration | Remarks                  |
+|:-------------------- |:------------|:-------------------------|
+| Dynamics of Youth    |  | |
 | Faculty of Geosciences | [Configuration](#faculty-of-geosciences) | |
 | Faculty of Humanities  | [Configuration](#faculty-of-humanities) | Humanities researchers often use the _Institutions for Open Societies_ environment rather than this faculty environment. |
 | Faculty of Law, Economics and Governance | [Configuration](#faculty-of-law-economics-and-governance)  | |
@@ -64,19 +69,19 @@ Please find the configuration for each environment below:
 | Institutions for Open Societies | [Configuration](#institutions-for-open-societies) | |
 | University Corporate Offices    | [Configuration](#university-corporate-offices) | |
 
-### Dynamics of Youth
+### AIMMS
 Please copy and paste this configuration into your
 _~/.irods/irods\_environment.json_ configuration file.
 
-You will need to change the example user name to your Yoda user name.
+You will need to change the `irods_user_name` to your Vunetid.
 
 ```
 {
-    "irods_host": "youth.data.uu.nl",
+    "irods_host": "aimms.labs.vu.nl",
     "irods_port": 1247,
-    "irods_home": "/nluu1p/home",
-    "irods_user_name": "exampleuser@uu.nl",
-    "irods_zone_name": "nluu1p",
+    "irods_home": "/nlvu1p/home",
+    "irods_user_name": "xxx000",
+    "irods_zone_name": "nlvu1p",
     "irods_authentication_scheme": "pam",
     "irods_encryption_algorithm": "AES-256-CBC",
     "irods_encryption_key_size": 32,
@@ -86,7 +91,7 @@ You will need to change the example user name to your Yoda user name.
 }
 ```
 
-### Faculty of Geosciences
+### SURF
 
 Please copy and paste this configuration into your
 _~/.irods/irods\_environment.json_ configuration file.
@@ -95,197 +100,11 @@ You will need to change the example user name to your Yoda user name.
 
 ```
 {
-    "irods_host": "geo.data.uu.nl",
+    "irods_host": "vu-yoda.irodspoc-sara.surf-hosted.nl",
     "irods_port": 1247,
-    "irods_home": "/nluu11p/home",
-    "irods_user_name": "exampleuser@uu.nl",
-    "irods_zone_name": "nluu11p",
-    "irods_authentication_scheme": "pam",
-    "irods_encryption_algorithm": "AES-256-CBC",
-    "irods_encryption_key_size": 32,
-    "irods_encryption_num_hash_rounds": 16,
-    "irods_encryption_salt_size": 8,
-    "irods_client_server_negotiation": "request_server_negotiation"
-}
-```
-
-### Faculty of Humanities
-
-Please copy and paste this configuration into your
-_~/.irods/irods\_environment.json_ configuration file.
-
-You will need to change the example user name to your Yoda user name.
-
-```
-{
-    "irods_host": "gw.data.uu.nl",
-    "irods_port": 1247,
-    "irods_home": "/nluu13p/home",
-    "irods_user_name": "exampleuser@uu.nl",
-    "irods_zone_name": "nluu13p",
-    "irods_authentication_scheme": "pam",
-    "irods_encryption_algorithm": "AES-256-CBC",
-    "irods_encryption_key_size": 32,
-    "irods_encryption_num_hash_rounds": 16,
-    "irods_encryption_salt_size": 8,
-    "irods_client_server_negotiation": "request_server_negotiation"
-}
-```
-
-### Faculty of Law, Economics and Governance
-
-Please copy and paste this configuration into your
-_~/.irods/irods\_environment.json_ configuration file.
-
-You will need to change the example user name to your Yoda user name.
-
-```
-{
-    "irods_host": "i-lab.data.uu.nl",
-    "irods_port": 1247,
-    "irods_home": "/nluu5p/home",
-    "irods_user_name": "exampleuser@uu.nl",
-    "irods_zone_name": "nluu5p",
-    "irods_authentication_scheme": "pam",
-    "irods_encryption_algorithm": "AES-256-CBC",
-    "irods_encryption_key_size": 32,
-    "irods_encryption_num_hash_rounds": 16,
-    "irods_encryption_salt_size": 8,
-    "irods_client_server_negotiation": "request_server_negotiation"
-}
-```
-
-### Faculty of Medicine
-
-Please copy and paste this configuration into your
-_~/.irods/irods\_environment.json_ configuration file.
-
-You will need to change the example user name to your Yoda user name.
-```
-{
-    "irods_host": "dgk.data.uu.nl",
-    "irods_port": 1247,
-    "irods_home": "/nluu9ot/home",
-    "irods_user_name": "exampleuser@uu.nl",
-    "irods_zone_name": "nluu9ot",
-    "irods_authentication_scheme": "pam",
-    "irods_encryption_algorithm": "AES-256-CBC",
-    "irods_encryption_key_size": 32,
-    "irods_encryption_num_hash_rounds": 16,
-    "irods_encryption_salt_size": 8,
-    "irods_client_server_negotiation": "request_server_negotiation"
-}
-```
-Note that in the future we plan to change the default resource to _irodsResc_.
-
-### Faculty of Science
-
-Please copy and paste this configuration into your
-_~/.irods/irods\_environment.json_ configuration file.
-
-You will need to change the example user name to your Yoda user name.
-
-```
-{
-    "irods_host": "science.data.uu.nl",
-    "irods_port": 1247,
-    "irods_home": "/nluu6p/home",
-    "irods_user_name": "exampleuser@uu.nl",
-    "irods_zone_name": "nluu6p",
-    "irods_authentication_scheme": "pam",
-    "irods_encryption_algorithm": "AES-256-CBC",
-    "irods_encryption_key_size": 32,
-    "irods_encryption_num_hash_rounds": 16,
-    "irods_encryption_salt_size": 8,
-    "irods_client_server_negotiation": "request_server_negotiation"
-}
-```
-
-### Faculty of Social and Behavioural Sciences
-
-Please copy and paste this configuration into your
-_~/.irods/irods\_environment.json_ configuration file.
-
-You will need to change the example user name to your Yoda user name.
-
-```
-{
-    "irods_host": "fsw.data.uu.nl",
-    "irods_port": 1247,
-    "irods_home": "/nluu10p/home",
-    "irods_user_name": "exampleuser@uu.nl",
-    "irods_zone_name": "nluu10p",
-    "irods_authentication_scheme": "pam",
-    "irods_encryption_algorithm": "AES-256-CBC",
-    "irods_encryption_key_size": 32,
-    "irods_encryption_num_hash_rounds": 16,
-    "irods_encryption_salt_size": 8,
-    "irods_client_server_negotiation": "request_server_negotiation"
-}
-```
-
-### Faculty of Veterinary Medicine
-
-Please copy and paste this configuration into your
-_~/.irods/irods\_environment.json_ configuration file.
-
-You will need to change the example user name to your Yoda user name.
-
-```
-{
-    "irods_host": "dgk.data.uu.nl",
-    "irods_port": 1247,
-    "irods_home": "/nluu9ot/home",
-    "irods_user_name": "exampleuser@uu.nl",
-    "irods_zone_name": "nluu9ot",
-    "irods_authentication_scheme": "pam",
-    "irods_encryption_algorithm": "AES-256-CBC",
-    "irods_encryption_key_size": 32,
-    "irods_encryption_num_hash_rounds": 16,
-    "irods_encryption_salt_size": 8,
-    "irods_client_server_negotiation": "request_server_negotiation"
-}
-```
-
-Note that in the future we plan to change the default resource to _irodsResc_.
-
-### Institutions for Open Societies
-
-Please copy and paste this configuration into your
-_~/.irods/irods\_environment.json_ configuration file.
-
-You will need to change the example user name to your Yoda user name.
-
-```
-{
-    "irods_host": "i-lab.data.uu.nl",
-    "irods_port": 1247,
-    "irods_home": "/nluu5p/home",
-    "irods_user_name": "exampleuser@uu.nl",
-    "irods_zone_name": "nluu5p",
-    "irods_authentication_scheme": "pam",
-    "irods_encryption_algorithm": "AES-256-CBC",
-    "irods_encryption_key_size": 32,
-    "irods_encryption_num_hash_rounds": 16,
-    "irods_encryption_salt_size": 8,
-    "irods_client_server_negotiation": "request_server_negotiation"
-}
-```
-
-### University Corporate Offices
-
-Please copy and paste this configuration into your
-_~/.irods/irods\_environment.json_ configuration file.
-
-You will need to change the example user name to your Yoda user name.
-
-```
-{
-    "irods_host": "its.data.uu.nl",
-    "irods_port": 1247,
-    "irods_home": "/nluu12p/home",
-    "irods_user_name": "exampleuser@uu.nl",
-    "irods_zone_name": "nluu12p",
+    "irods_home": "/tempZone/home",
+    "irods_user_name": "exampleuser@vu.nl",
+    "irods_zone_name": "tempZone",
     "irods_authentication_scheme": "pam",
     "irods_encryption_algorithm": "AES-256-CBC",
     "irods_encryption_key_size": 32,
