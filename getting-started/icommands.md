@@ -56,19 +56,6 @@ Please find the configuration for each environment below:
 | AIMMS pilot | [Configuration](#AIMMS) | |
 | Surf Yoda pilots | [Configuration](#SURF) | |
 
-| Environment          | Configuration | Remarks                  |
-|:-------------------- |:------------|:-------------------------|
-| Dynamics of Youth    |  | |
-| Faculty of Geosciences | [Configuration](#faculty-of-geosciences) | |
-| Faculty of Humanities  | [Configuration](#faculty-of-humanities) | Humanities researchers often use the _Institutions for Open Societies_ environment rather than this faculty environment. |
-| Faculty of Law, Economics and Governance | [Configuration](#faculty-of-law-economics-and-governance)  | |
-| Faculty of Medicine |  [Configuration](#faculty-of-medicine)| |
-| Faculty of Science     |  [Configuration](#faculty-of-science)| |
-| Faculty of Social and Behavioural Sciences | [Configuration](#faculty-of-social-and-behavioural-sciences) | |
-| Faculty of Veterinary Medicine | [Configuration](#faculty-of-veterinary-medicine) | |
-| Institutions for Open Societies | [Configuration](#institutions-for-open-societies) | |
-| University Corporate Offices    | [Configuration](#university-corporate-offices) | |
-
 ### AIMMS
 Please copy and paste this configuration into your
 _~/.irods/irods\_environment.json_ configuration file.
