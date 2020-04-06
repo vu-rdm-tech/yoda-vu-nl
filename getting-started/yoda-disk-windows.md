@@ -4,6 +4,7 @@ This website contains information about three methods for connecting to
 the Yoda Network Disk on PCs and laptops that run Microsoft Windows:
 - [YodaDrive](yoda-disk-yodadrive.md)
 - The [Windows native WebDAV client](yoda-disk-windowsnative.md)
+- [Cyberduck](yoda-disk-cyberduck.md)
 - [WinSCP](yoda-disk-winscp.md)
 
 Generally speaking, [YodaDrive](yoda-disk-yodadrive.md) is the preferred method. However, in some specific situations the [Windows native WebDAV client](yoda-disk-windowsnative.md) is a better alternative: 
@@ -20,4 +21,9 @@ with remote data, whereas the native WebDAV client and YodaDrive map the Yoda Ne
 So you can use the native WebDAV client and YodaDrive to work with data in Yoda as if it was local data, but if you use 
 WinSCP you may have to copy your data to a local disk or other network drive before being able to work with it, 
 depending on the application and use case.
->>>>>>> upstream/master
+
+[Cyberduck](yoda-disk-cyberduck.md) Cyberduck like WinSCP is an application for working with remote data,
+whereas WebDrive and YodaDrive map the Yoda Network Disk to a drive transparently. So you can use the WebDrive and 
+YodaDrive to work with data in Yoda as if it was local data, but if you use
+Cyberduck you may have to copy your data to a local disk or network drive before being able to work with it,
+depending on the use case and application.
