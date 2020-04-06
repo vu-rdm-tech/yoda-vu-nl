@@ -25,7 +25,7 @@ Enter the server address of your environment (see table below) in the Host name 
 
 | Environment          | Address | Remarks                  |
 |:-------------------- |:------------|:-------------------------|
-| AIMMS pilot | https://data.aimms.labs.vu.nl/ | |
+| AIMMS pilot | https://aimms.labs.vu.nl/ | |
 | Surf Yoda pilots | https://vu-data.irodspoc-sara.surf-hosted.nl/ | |
 
 

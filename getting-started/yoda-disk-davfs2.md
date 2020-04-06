@@ -35,7 +35,7 @@ Look up the Yoda Network Disk URL of your Yoda Environment (see table below).
 
 | Environment          | Address | Remarks                  |
 |:-------------------- |:------------|:-------------------------|
-| AIMMS pilot | https://data.aimms.labs.vu.nl/ | |
+| AIMMS pilot | https://aimms.labs.vu.nl/ | |
 | Surf Yoda pilots | https://vu-data.irodspoc-sara.surf-hosted.nl/ | |
 
 Open the /etc/fstab file in a text editor (e.g. _sudo vi /etc/fstab_) and add a configuration
