@@ -23,6 +23,8 @@ getting-started:
     url: /getting-started/getting-started-portal.html
   - page: Connecting to the Yoda Network Disk on Windows
     url: /getting-started/yoda-disk-windows.html
+      - page: WinSCP
+        url: /getting-started/yoda-disk-winscp.md
   - page: Connecting to the Yoda Network Disk on MacOS
     url: /getting-started/yoda-disk-macos.html
   - page: Connecting to the Yoda Network Disk on Linux
