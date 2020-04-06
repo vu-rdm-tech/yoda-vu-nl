@@ -14,4 +14,3 @@ Updates in the wall of fame will be shared on a regular basis.
 
 ## Contact
 - [Contact](contact/index.md)
-.
