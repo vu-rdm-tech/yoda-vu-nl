@@ -10,13 +10,13 @@ depending on the use case and application.
 
 Windows users can download and install Cyberduck from the [website](https://cyberduck.io/download/). Mac users can install CyberDuck from the VU Software Center. 
 
-## Using WinSCP
+## Using Cyberduck
 
 Start Cyberduck from the Desktop icon or the Start menu.
 
-In the initial Windows click on the bookmarks icon and then click on the + at the bottom of the window.
-
 ![alt text](screenshots/screenshot-cyberduck-start.png "Screenshot Cyberduck: start")
+
+In the initial Windows click on the bookmarks icon and then click on the + at the bottom of the window.
 
 ![alt text](screenshots/screenshot-cyberduck-connectfolder.png "Screenshot Cyberduck: settings")
 
