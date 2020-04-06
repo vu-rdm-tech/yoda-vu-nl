@@ -3,7 +3,6 @@
 This website contains information about three methods for connecting to
 the Yoda Network Disk on PCs and laptops that run Microsoft Windows:
 - [YodaDrive](yoda-disk-yodadrive.md)
-- The [Windows native WebDAV client](yoda-disk-windowsnative.md)
 - [WebDrive](yoda-disk-webdrive.md)
 - [Cyberduck](yoda-disk-cyberduck.md)
 - [WinSCP](yoda-disk-winscp.md)
