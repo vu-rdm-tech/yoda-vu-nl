@@ -1,34 +1,23 @@
 # Connecting to the Yoda Network Disk on Windows
 
-Look up the server address of your environment:
+This website contains information about three methods for connecting to
+the Yoda Network Disk on PCs and laptops that run Microsoft Windows:
+- [YodaDrive](yoda-disk-yodadrive.md)
+- The [Windows native WebDAV client](yoda-disk-windowsnative.md)
+- [WinSCP](yoda-disk-winscp.md)
 
-| Environment          | Address | Remarks                  |
-|:-------------------- |:------------|:-------------------------|
-| AIMMS pilot | https://data.aimms.labs.vu.nl/ | |
-| Surf Yoda pilots | https://vu-data.irodspoc-sara.surf-hosted.nl/ | |
+Generally speaking, [YodaDrive](yoda-disk-yodadrive.md) is the preferred method. However, in some specific situations the [Windows native WebDAV client](yoda-disk-windowsnative.md) is a better alternative: 
+- If you need to be able to connect to multiple Yoda environments simultaneously.
+- If you can't install YodaDrive, for example if the security settings of your laptop
+  prevent you from installing any new applications.
+- YodaDrive is intended for use with Windows 10. If you use Windows 7 and are unable to upgrade,
+  you can still use the native WebDAV client to connect to the Yoda Network Disk as a temporary workaround.
 
-
-## Alternative: use WinSCP
-
-If you experience problems with accessing data using a mapped network drive, you can alternatively
-use a different client program for accessing data in Yoda, such as [WinSCP](https://winscp.net).
-
-First install WinSCP according to the [WinSCP install guide](https://winscp.net/eng/docs/guide_install).
-
-Start WinSCP from the Desktop icon or the Start menu.
-
-In the login window, ensure that the file protocol is set to "WebDAV" and encryption is set to "TLS/SSL implicit encryption".
-
-![alt text](screenshots/screenshot-winscp-login-encsettings.png "Screenshot WinSCP: file protocol and encryption settings")
-
-Enter the server address of your environment (see table above) in the Host name field. The port number should have its default value: 443.
-
-![alt text](screenshots/screenshot-winscp-login-host.png "Screenshot WinSCP: host name setting")
-
-You will be prompted for a name and password.
-If you are an employee or student at Utrecht University, your user name is your Utrecht University email address (in lowercase) and your password
-is your Solis password. External users have usually received their user name via email, along with a link to set their password.
-
-![alt text](screenshots/screenshot-winscp-login-credentials.png "Screenshot WinSCP: host name setting")
-
-Click on the Save button and then on the Login button. WinSCP should now open your Yoda Network Disk.
+[WinSCP](yoda-disk-winscp.md) is an alternative for YodaDrive and the Windows native WebDAV client. The main difference
+between the native
+WebDAV client and YodaDrive on the one hand and WinSCP on the other hand, is that WinSCP is an application for working
+with remote data, whereas the native WebDAV client and YodaDrive map the Yoda Network Disk to a drive transparently.
+So you can use the native WebDAV client and YodaDrive to work with data in Yoda as if it was local data, but if you use 
+WinSCP you may have to copy your data to a local disk or other network drive before being able to work with it, 
+depending on the application and use case.
+>>>>>>> upstream/master

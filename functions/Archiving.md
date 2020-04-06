@@ -43,7 +43,7 @@ The data manager will then assess the data package.
 
 The data manager will check that the data package is self-evident for other researchers, and
 will check for compliance with privacy rules and regulations.  For additional information,
-please consult the [list of checks](DM-checks.html).
+please consult the [Data Curation checklist](checklist_YODA_V5p.pdf).
 
 The data manager can either approve the data package for archiving or suggest improvements.
 
