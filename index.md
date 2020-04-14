@@ -1,5 +1,5 @@
 # Welcome
-Welcome to the Yoda user help pages..
+Welcome to the Yoda user help pages.
 
 Yoda is a service that provides Vrije Universiteit researchers and their partners with a workspace and an archive that enables them 
 to collaborate, deposit, publish and preserve research data.
