@@ -15,7 +15,7 @@ Enter the server address of your environment:
 | Environment          | Address | Remarks                  |
 |:-------------------- |:------------|:-------------------------|
 | AIMMS pilot | https://aimms.labs.vu.nl/ | |
-| Surf Yoda pilots | https://vu-data.irodspoc-sara.surf-hosted.nl/ | |
+| Surf Pre-production | https://data.yoda.vu.nl/ | |
 
 The Finder app will show a confirmation dialog, similar to the one below. The address shown in the dialog should be the address you entered in the previous dialog.
 

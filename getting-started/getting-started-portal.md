@@ -8,12 +8,12 @@ Go to the address of the Yoda portal for your environment:
 | Environment          | Address | Remarks                  |
 |:-------------------- |:------------|:-------------------------|
 | AIMMS pilot | https://portal.aimms.labs.vu.nl/ | |
-| Surf Yoda pilots | https://vu-yoda.irodspoc-sara.surf-hosted.nl/ | |
+| Surf Yoda Pre-production | https://portal.yoda.vu.nl/ | |
 
-Log in using the "Sign in" button. You will be prompted for your user name and password. If you are an employee or student at Utrecht University,
-your user name is your vunetid (in lowercase). External users have usually received their user name
+Log in using the "Sign in" button. You will be prompted for your user name and password. If you are an employee or student 
+at Vrije Univeriteit, your user name is your vunetid (in lowercase). External users have usually received their user name
 via email, along with a link to set their password. 
-Note: In the case of the Surf Yoda Pilot everyone is an external user.
+Note: In the case of the Surf Yoda Environment everyone is an external user. 
 
 ## Overview of the Yoda Portal
 

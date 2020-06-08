@@ -27,7 +27,7 @@ Enter the Username and Password (either vunetid or an emailaddress).
 | Environment          | Address | Login                  |
 |:-------------------- |:------------|:-------------------------|
 | AIMMS pilot | https://aimms.labs.vu.nl/ | vunetid | 
-| Surf Yoda pilots | https://vu-data.irodspoc-sara.surf-hosted.nl/ | email and password |
+| Surf Pre-production | https://data.yoda.vu.nl/ | email and password |
 
 Close the window and you should see a new bookmark.
 

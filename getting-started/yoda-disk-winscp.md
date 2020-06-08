@@ -26,7 +26,7 @@ Enter the server address of your environment (see table below) in the Host name 
 | Environment          | Address | Remarks                  |
 |:-------------------- |:------------|:-------------------------|
 | AIMMS pilot | https://aimms.labs.vu.nl/ | |
-| Surf Yoda pilots | https://vu-data.irodspoc-sara.surf-hosted.nl/ | |
+| Surf Pre-production | https://data.yoda.vu.nl/ | |
 
 
 ![alt text](screenshots/screenshot-winscp-login-host.png "Screenshot WinSCP: host name setting")

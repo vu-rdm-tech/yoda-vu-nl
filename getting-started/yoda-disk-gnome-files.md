@@ -10,7 +10,7 @@ address of your Yoda environment in the table below.
 | Environment          | Address | Remarks                  |
 |:-------------------- |:------------|:-------------------------|
 | AIMMS pilot | https://aimms.labs.vu.nl/ | |
-| Surf Yoda pilots | https://vu-data.irodspoc-sara.surf-hosted.nl/ | |
+| Surf Pre-production | https://data.yoda.vu.nl/ | |
 
 Then click on the Connect button.
 

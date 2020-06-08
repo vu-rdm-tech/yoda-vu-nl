@@ -36,23 +36,23 @@ Look up the Yoda Network Disk URL of your Yoda Environment (see table below).
 | Environment          | Address | Remarks                  |
 |:-------------------- |:------------|:-------------------------|
 | AIMMS pilot | https://aimms.labs.vu.nl/ | |
-| Surf Yoda pilots | https://vu-data.irodspoc-sara.surf-hosted.nl/ | |
+| Surf Yoda pilots | https://data.yoda.vu.nl/ | |
 
 Open the /etc/fstab file in a text editor (e.g. _sudo vi /etc/fstab_) and add a configuration
 line for the Yoda Network Disk:
 
-_https://mydepartment.data.uu.nl  /mnt davfs user,auto,uid=1000,gid=1000 0 0_
+_https://data.yoda.vu.nl  /mnt davfs user,auto,uid=1000,gid=1000 0 0_
 
 And adjust the parameters as needed:
-- Replace _https://mydepartment.data.uu.nl_ with the URL of your Yoda Network Disk
+- Replace _https://data.yoda.vu.nl_ with the URL of your Yoda Network Disk
 - If you'd like to mount the Yoda Network Disk in a different location, replace _/mnt_ with a different local directory.
 - Replace the _uid_ and _gid_ parameters with your uid and gid, as shown by the _id_ command.
 - If you don't want the Yoda Network Disk to be mounted automatically after your system starts, remove "auto," from the options.
 
 Now use a text editor to create a secrets file, which contains your Yoda Network Disk URL, Yoda user name and password, separated by spaces.
-If you are an employee or student at Utrecht University, your user name is your Utrecht University email address (in lowercase) and your password
-is your Solis password. External users have usually received their user name via email, along with a link to set their password. 
-Example of a secrets file: &ldquo;https://mydepartment.data.uu.nl j.jansen@uu.nl mySecretPassword&rdquo;. You need
+If you are an employee or student at Vrije Universitiet, your user name is your VU email address (in lowercase) and your password
+is your Vunet password. External users have usually received their user name via email, along with a link to set their password. 
+Example of a secrets file: &ldquo;https://data.yoda.vu.nl j.jansen@vu.nl mySecretPassword&rdquo;. You need
 to escape any backslashes and double quotes in your password with a backslash (e.g. use &ldquo;\\\\&rdquo; instead of &ldquo;\&rdquo;).
 
 Install this secrets file as the global davfs2 secrets file:

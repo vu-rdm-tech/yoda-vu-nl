@@ -26,7 +26,7 @@ Select a drive letter &mdash; any free letter is okay. Now enter the server addr
 | Environment          | Address | Remarks                  |
 |:-------------------- |:------------|:-------------------------|
 | AIMMS pilot | https://aimms.labs.vu.nl/ | |
-| Surf Yoda pilots | https://vu-data.irodspoc-sara.surf-hosted.nl/ | |
+| Surf Pre-production | https://data.yoda.vu.nl/ | |
 
 ![alt text](screenshots/screenshot-windows-connectfolder.png "Screenshot Windows: folder input field when mapping network drive")
 

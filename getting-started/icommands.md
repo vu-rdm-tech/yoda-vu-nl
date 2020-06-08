@@ -87,7 +87,7 @@ You will need to change the example user name to your Yoda user name.
 
 ```
 {
-    "irods_host": "vu-yoda.irodspoc-sara.surf-hosted.nl",
+    "irods_host": "portal.yoda.vu.nl",
     "irods_port": 1247,
     "irods_home": "/tempZone/home",
     "irods_user_name": "exampleuser@vu.nl",

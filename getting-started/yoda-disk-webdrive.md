@@ -30,7 +30,7 @@ credentials are correct.
 | Environment          | Address | Login                  |
 |:-------------------- |:------------|:-------------------------|
 | AIMMS pilot | https://aimms.labs.vu.nl/ | vunetid | 
-| Surf Yoda pilots | https://vu-data.irodspoc-sara.surf-hosted.nl/ | email and password |
+| Surf Pre-production | https://data.yoda.vu.nl/ | email and password |
 
 Click Next
 
