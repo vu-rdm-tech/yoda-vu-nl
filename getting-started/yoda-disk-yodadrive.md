@@ -18,9 +18,13 @@ Download the YodaDrive installation bundle by clicking on this link:
 
 ![alt text](screenshots/yodadrive-download.jpg "Screenshot: downloading YodaDrive")
 
-Open the zip file in your browser by clicking on it. If you don’t see it, navigate to the Downloads folder in Explorer and click on the zip file.
+Navigate to your Downloads folder and right click on the YodaDrive zip file. Choose &ldquo;Extract all&rdquo;.
 
-![alt text](screenshots/yodadrive-open-archive.jpg "Screenshot: opening the YodaDrive archive")
+![alt text](screenshots/yodadrive-extractall.png "Screenshot: opening the YodaDrive archive")
+
+A window for extracting the zip file is opened. Click on the &ldquo;Extract&rdquo; button in the lower right corner of the window.
+
+![alt text](screenshots/yodadrive-extract.png "Screenshot: extracting the YodaDrive files")
 
 Double click on &ldquo;setup&rdquo; and confirm that you want to run it.
 
@@ -34,14 +38,18 @@ Confirm that you want to install YodaDrive.
 
 ![alt text](screenshots/yodadrive-install-security-dialog.jpg "Screenshot: security dialog when installing YodaDrive")
 
+Wait until the installation is complete. You should have a new shortcut on your desktop, as well as an icon in your system tray.
+By default, the system tray icon is shown in the lower right corner of the screen, to the left of the clock.
 
-After the installation has completed, you should now have a new shortcut on your dekstop, as well as an icon in your taskbar: 
+![alt text](screenshots/systemtray-yodadrive-a.png "YodaDrive system tray icon")
 
-![alt text](screenshots/yodadrive-shortcut.jpg "YodaDrive shortcut")
+If you don't see it, expand the system tray using the &ldquo;^&rdquo; button, and check whether you see the YodaDrive icon in the expanded
+tray.
 
-Open YodaDrive by clicking on the icon and choosing &ldquo;Manage&rdquo;. If you don’t see an icon, press the start button,
-type &ldquo;Yoda drive&rdquo; and press enter. You should now see a management window. If you don’t see it, minimize your other
-open application windows to see if the YodaDrive window is behind it.
+![alt text](screenshots/systemtray-yodadrive-expanded-a.png "YodaDrive system tray icon in expanded system tray")
+
+Open the YodaDrive configuration by clicking on the system tray icon and choosing &ldquo;Manage&rdquo;.  You should now see a management
+window. If you don’t see it, minimize your other open application windows to see if the YodaDrive window is behind it.
 
 ![alt text](screenshots/yodadrive-manage-window.jpg "YodaDrive Manage Window")
 
