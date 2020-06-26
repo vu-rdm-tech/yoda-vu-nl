@@ -81,3 +81,5 @@ better not to tick this checkbox for security reasons. Tick the checkboxes &ldqu
 Click &ldquo;Save&rdquo; and then &ldquo;Mount&rdquo;.
 
 You can now view the Yoda Network Disk in Explorer.
+
+If you run into any problems, please consult the [page about troubleshooting YodaDrive issues](yoda-disk-yodadrive-tshoot.md).
