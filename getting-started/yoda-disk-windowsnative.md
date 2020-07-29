@@ -11,6 +11,9 @@ using the native WebDAV client in the following circumstances:
 - YodaDrive is intended for use with Windows 10. If you use Windows 7 and are unable to upgrade,
   you can still use the native WebDAV client to connect to the Yoda Network Disk as a temporary workaround.
 
+If you have already configured a mapped network drive and want to update your password, please
+consult the [instructions for updating your password](yoda-disk-windowsnative-update-passwd.md).
+
 ## Mapping network drive
 
 Open "This PC" from the Start menu
