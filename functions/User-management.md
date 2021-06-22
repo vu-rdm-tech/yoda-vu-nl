@@ -10,32 +10,6 @@ Users can have three different roles in a group:
 - Group manager: is able to grant and revoke access rights for the group. Can also view, download, upload, modify
   or delete files and folders in the group.
 
-## Creating a new Yoda group
-
-In some cases, it can be useful to have multiple data compartments for one project. For example, you might want to
-have one data compartment with nonsensitive data that is shared with collaborators, as well as a second data
-compartment with sensitive data that is only accessible to the principal investigator. 
-
-There are two prerequisites for creating a new group:
-- You need to have a group manager role in an existing group in the same community.
-- You need to have been granted a system-wide right to create groups  
-
-If you are authorized to create a new group, you can do so in the following way:
-- Navigate to the [Yoda portal](../getting-started/getting-started-portal.html).
-- Log in
-- Select &ldquo;Group Manager&rdquo; in the top menu.
-- In the left pane of the Group Manager, select any existing group in the community.
-- Press the &ldquo;Add group&rdquo; button at the bottom of the screen.
-- A dialog will open. Enter the name of the group in the &ldquo;Group name&ldquo; field. The &ldquo;research-&rdquo; prefix
-  is selected by default and should not be changed. Only lowercase letters and numbers can be used in group names.
-- Click on &ldquo;Add group&rdquo; to finish the process.
-
-![create Yoda group](create-user-group.jpg)
-
-Once created, a group cannot be renamed.
-
-If you are not authorized to create a group yourself, you can ask your data manager to create one.
-
 ## Granting access to a group
 
 If you are the group manager of a group, you will be able to add users to the group in the following way:

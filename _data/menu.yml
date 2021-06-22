@@ -3,15 +3,15 @@ main:
     url: /what-is-yoda/index.html
   - title: Getting started with Yoda
     url: /getting-started/index.html
-  - title: User guide
-    url: /functions/index.html
+  #- title: User guide
+  #  url: /functions/index.html
   - title: Contact
     url: /contact/index.html
   - title: Terms of Use
     #url: /Yoda-TOU.html
     url: /docs/terms_of_use.pdf
 
-what-is-yoda:
+#what-is-yoda:
   #- page: Grant text fragments
   #  url: /what-is-yoda/grant-info.html
   #- page: Info for harvesters
