@@ -22,15 +22,10 @@ Choose Secure WebDAV and click Next.
 
 ![alt text](screenshots/screenshot-webdrive-account.png "Screenshot WebDrive: account information")
 
-Enter the server address of your environment (see table below) in the Url/Address field.
+Enter https://data.yoda.vu.nl/ in the Url/Address field.
 
 Enter the Username and Password (either vunetid or an emailaddress). You can click Test Connection to see if the 
 credentials are correct. 
-
-| Environment          | Address | Login                  |
-|:-------------------- |:------------|:-------------------------|
-| AIMMS pilot | https://aimms.labs.vu.nl/ | vunetid | 
-| Surf Pre-production | https://data.yoda.vu.nl/ | email and password |
 
 Click Next
 

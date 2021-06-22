@@ -1,4 +1,4 @@
-# Connecting to the Yoda Network Disk on Windows Using WinSCP
+# Connecting to the Yoda Network Disk Using Cyberduck
 
 Windows and Mac users can use [Cyberduck](https://cyberduck.io/) to access their data via the Yoda Network Disk,
 as an alternative to the [native WebDAV client](yoda-disk-windowsnative.md) and
@@ -20,14 +20,9 @@ In the initial Window click on the bookmarks icon and then click on the + at the
 
 ![alt text](screenshots/screenshot-cyberduck-connectfolder.png "Screenshot Cyberduck: settings")
 
-Enter the server address of your environment (see table below) in the Host name field. The port number should have its default value: 443.
+Enter https://data.yoda.vu.nl/ in the Host name field. The port number should have its default value: 443.
 
 Enter the Username and Password (either vunetid or an emailaddress).
-
-| Environment          | Address | Login                  |
-|:-------------------- |:------------|:-------------------------|
-| AIMMS pilot | https://aimms.labs.vu.nl/ | vunetid | 
-| Surf Pre-production | https://data.yoda.vu.nl/ | email and password |
 
 Close the window and you should see a new bookmark.
 

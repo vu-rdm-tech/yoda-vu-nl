@@ -21,19 +21,13 @@ In the login window, ensure that the file protocol is set to "WebDAV" and encryp
 
 ![alt text](screenshots/screenshot-winscp-login-encsettings.png "Screenshot WinSCP: file protocol and encryption settings")
 
-Enter the server address of your environment (see table below) in the Host name field. The port number should have its default value: 443.
-
-| Environment          | Address | Remarks                  |
-|:-------------------- |:------------|:-------------------------|
-| AIMMS pilot | https://aimms.labs.vu.nl/ | |
-| Surf Pre-production | https://data.yoda.vu.nl/ | |
-
+Enter https://data.yoda.vu.nl/ in the Host name field. The port number should have its default value: 443.
 
 ![alt text](screenshots/screenshot-winscp-login-host.png "Screenshot WinSCP: host name setting")
 
 You will be prompted for a name and password.
-If you are an employee or student at Utrecht University, your user name is your Utrecht University email address (in lowercase) and your password
-is your Solis password. External users have usually received their user name via email, along with a link to set their password.
+If you are an employee or student at Utrecht University, your user name is your VUnetId (in lowercase). External users 
+have usually received their user name via email, along with a link to set their password.
 
 ![alt text](screenshots/screenshot-winscp-login-credentials.png "Screenshot WinSCP: host name setting")
 

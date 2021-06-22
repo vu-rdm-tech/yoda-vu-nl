@@ -31,13 +31,6 @@ Open the davfs2 configfile in a text editor (e.g. _sudo vi /etc/davfs2/davfs2.co
 parameter *delay_upload* is set to 0 (zero). This limits the risk of data loss from a failure to flush data after
 large file transfers.
 
-Look up the Yoda Network Disk URL of your Yoda Environment (see table below).
-
-| Environment          | Address | Remarks                  |
-|:-------------------- |:------------|:-------------------------|
-| AIMMS pilot | https://aimms.labs.vu.nl/ | |
-| Surf Yoda pilots | https://data.yoda.vu.nl/ | |
-
 Open the /etc/fstab file in a text editor (e.g. _sudo vi /etc/fstab_) and add a configuration
 line for the Yoda Network Disk:
 
@@ -52,7 +45,7 @@ And adjust the parameters as needed:
 Now use a text editor to create a secrets file, which contains your Yoda Network Disk URL, Yoda user name and password, separated by spaces.
 If you are an employee or student at Vrije Universitiet, your user name is your VU email address (in lowercase) and your password
 is your Vunet password. External users have usually received their user name via email, along with a link to set their password. 
-Example of a secrets file: &ldquo;https://data.yoda.vu.nl j.jansen@vu.nl mySecretPassword&rdquo;. You need
+Example of a secrets file: &ldquo;https://data.yoda.vu.nl xxx123  mySecretPassword&rdquo;. You need
 to escape any backslashes and double quotes in your password with a backslash (e.g. use &ldquo;\\\\&rdquo; instead of &ldquo;\&rdquo;).
 
 Install this secrets file as the global davfs2 secrets file:

@@ -10,12 +10,7 @@ Now press the command key and the "K" key to connect to the Yoda server. You sho
 
 ![alt text](screenshots/macos-connect-server.jpg "Connect to server dialog")
 
-Enter the server address of your environment:
-
-| Environment          | Address | Remarks                  |
-|:-------------------- |:------------|:-------------------------|
-| AIMMS pilot | https://aimms.labs.vu.nl/ | |
-| Surf Pre-production | https://data.yoda.vu.nl/ | |
+Enter https://data.yoda.vu.nl/ as server address.
 
 The Finder app will show a confirmation dialog, similar to the one below. The address shown in the dialog should be the address you entered in the previous dialog.
 
@@ -31,3 +26,5 @@ is your Solis password. External users have usually received their user name via
 in my keychain&rdquo;.  Click on the connect button.
 
 You should now have a new Yoda Network Disk location in Finder. Its name is the network address you entered before. You may have to scroll down in finder in order to see it.
+
+You can also connect using CyberDuck on MacOS, see [connect using cyberduck](yoda-disk-cyberduck)

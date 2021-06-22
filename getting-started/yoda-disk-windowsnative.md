@@ -24,12 +24,7 @@ Open the Computer menu item and select "Map network drive".
 
 ![alt text](screenshots/screenshot-windows-mapnwdrive.png "Screenshot Windows: Map network drive icon in This PC")
  
-Select a drive letter &mdash; any free letter is okay. Now enter the server address of the environment in the Folder field (see table below).
-
-| Environment          | Address | Remarks                  |
-|:-------------------- |:------------|:-------------------------|
-| AIMMS pilot | https://aimms.labs.vu.nl/ | |
-| Surf Pre-production | https://data.yoda.vu.nl/ | |
+Select a drive letter &mdash; any free letter is okay. Now enter https://data.yoda.vu.nl/ in the Folder field (see table below).
 
 ![alt text](screenshots/screenshot-windows-connectfolder.png "Screenshot Windows: folder input field when mapping network drive")
 

@@ -26,7 +26,7 @@ Use these commands to install the iCommands package on CentOS 7:
 sudo yum -y install wget epel-release yum-plugin-versionlock
 sudo rpm --import https://packages.irods.org/irods-signing-key.asc
 wget -qO - https://packages.irods.org/renci-irods.yum.repo | sudo tee /etc/yum.repos.d/renci-irods.yum.repo
-sudo yum -y install irods-runtime-4.2.6 irods-icommands-4.2.6
+sudo yum -y install irods-runtime-4.2.9 irods-icommands-4.2.9
 sudo yum versionlock irods-runtime irods-icommands
 ```
 
@@ -49,37 +49,6 @@ sudo aptitude hold irods-runtime irods-icommands
 
 The iCommands need to be configured to connect to the right Yoda environment.
 
-Please find the configuration for each environment below:
-
-| Environment          | Configuration | Remarks                  |
-|:-------------------- |:------------|:-------------------------|
-| AIMMS pilot | [Configuration](#AIMMS) | |
-| Surf Yoda pilots | [Configuration](#SURF) | |
-
-### AIMMS
-Please copy and paste this configuration into your
-_~/.irods/irods\_environment.json_ configuration file.
-
-You will need to change the `irods_user_name` to your Vunetid.
-
-```
-{
-    "irods_host": "aimms.labs.vu.nl",
-    "irods_port": 1247,
-    "irods_home": "/nlvu1p/home",
-    "irods_user_name": "xxx000",
-    "irods_zone_name": "nlvu1p",
-    "irods_authentication_scheme": "pam",
-    "irods_encryption_algorithm": "AES-256-CBC",
-    "irods_encryption_key_size": 32,
-    "irods_encryption_num_hash_rounds": 16,
-    "irods_encryption_salt_size": 8,
-    "irods_client_server_negotiation": "request_server_negotiation"
-}
-```
-
-### SURF
-
 Please copy and paste this configuration into your
 _~/.irods/irods\_environment.json_ configuration file.
 
@@ -90,7 +59,7 @@ You will need to change the example user name to your Yoda user name.
     "irods_host": "portal.yoda.vu.nl",
     "irods_port": 1247,
     "irods_home": "/tempZone/home",
-    "irods_user_name": "exampleuser@vu.nl",
+    "irods_user_name": "xxx123",
     "irods_zone_name": "tempZone",
     "irods_authentication_scheme": "pam",
     "irods_encryption_algorithm": "AES-256-CBC",

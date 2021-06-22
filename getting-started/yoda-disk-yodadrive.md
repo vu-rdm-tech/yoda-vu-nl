@@ -54,17 +54,10 @@ window. If you don’t see it, minimize your other open application windows to s
 ![alt text](screenshots/yodadrive-manage-window.jpg "YodaDrive Manage Window")
 
 
-Select a drive letter &mdash; any free letter is okay. Now enter the server address of the environment in the URL field (see table below).
-
-| Environment          | Address | Remarks                  |
-|:-------------------- |:------------|:-------------------------|
-| AIMMS pilot | https://aimms.labs.vu.nl/ | |
-| Surf Pre-production | https://data.yoda.vu.nl/ | |
-
+Select a drive letter &mdash; any free letter is okay. Now enter https://data.yoda.vu.nl/ in the URL field (see table below).
  
 Enter your user name in the &ldquo;Login&rdquo; field and your password in the &ldquo;Password&rdquo; field.
-If you are an employee or student at Utrecht University, your user name is your Utrecht University email address (in lowercase) and your password
-is your Solis password. External users have usually received their user name via email, along with a link to set their password.
+If you are an employee or student at the VU, your user name is your VUnetId (in lowercase). External users have usually received their user name via email, along with a link to set their password.
 
 If you are working on your personal PC or laptop, tick the checkbox &ldquo;Remember Password&rdquo;. If you are working on a shared computer, it is
 better not to tick this checkbox for security reasons. Tick the checkboxes &ldquo;Auto-mount drive&rdquo; and &ldquo;Start with Windows&rdquo;.

@@ -3,12 +3,7 @@
 ## Logging in
 
 
-Go to the address of the Yoda portal for your environment:
-
-| Environment          | Address | Remarks                  |
-|:-------------------- |:------------|:-------------------------|
-| AIMMS pilot | https://portal.aimms.labs.vu.nl/ | |
-| Surf Yoda Pre-production | https://portal.yoda.vu.nl/ | |
+Go to https://portal.yoda.vu.nl/
 
 Log in using the "Sign in" button. You will be prompted for your user name and password. If you are an employee or student 
 at Vrije Univeriteit, your user name is your vunetid (in lowercase). External users have usually received their user name
@@ -35,7 +30,7 @@ to the needs of the researcher.
 
 After completion of a study, the data in that subfolder can be deposited so that it is
 kept for 10 years or longer. Use the "Submit" button to deposit the subfolder. This will
-copy the contents of the subfolder to the Vault folder as a new data package (see below).
+copy the contents of the subfolder to the Vault folder as a new data package.
 Before doing so, the subfolder must be described with metadata, which can be entered by
 clicking on the Metadata button.  The folder named "vault-..." contains deposited data packages.
 Once deposited, data cannot be removed. Therefore the vault can be used to account for data
