@@ -23,3 +23,5 @@ irule -F /etc/irods/irods-ruleset-research/tools/check-metadata-for-schema-updat
 ```
 
 When all metadata has a schema identifier the system default schema can be [upgraded](https://utrechtuniversity.github.io/yoda-docs/administration/upgrading-metadata-schemas.html).
+
+blabla
