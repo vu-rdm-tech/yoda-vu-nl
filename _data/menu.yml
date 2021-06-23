@@ -1,8 +1,8 @@
 main:
   - title: Home
     url: /index.html
-  - title: What is Yoda
-    url: /what-is-yoda/index.html
+  #- title: What is Yoda
+  #  url: /what-is-yoda/index.html
   - title: Getting started with Yoda
     url: /getting-started/index.html
   #- title: User guide
