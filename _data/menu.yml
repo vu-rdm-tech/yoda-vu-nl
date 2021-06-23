@@ -10,8 +10,8 @@ main:
   - title: Terms of Use
     #url: /Yoda-TOU.html
     url: /../docs/terms_of_use.pdf
-  - title: Yoda Portal
-    url: "https://portal.yoda.vu.nl"
+  #- title: Yoda Portal
+  #  url: "https://portal.yoda.vu.nl"
 
 #what-is-yoda:
   #- page: Grant text fragments
