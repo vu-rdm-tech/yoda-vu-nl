@@ -13,3 +13,4 @@ Eventually Yoda will support the processing of both sensitive (e.g. privacy, pat
 
 This website has practical information on the use of the Yoda for users starting in Yoda. More information can
 be found on the [SURFsara Knowledge Base](https://servicedesk.surfsara.nl/wiki/display/WIKI/Yoda+Hosting).
+
