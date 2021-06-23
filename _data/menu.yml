@@ -11,7 +11,7 @@ main:
     #url: /Yoda-TOU.html
     url: /docs/terms_of_use.pdf
   - title: Yoda Portal
-    url: https://portal.yoda.vu.nl
+    url: "https://portal.yoda.vu.nl"
 
 #what-is-yoda:
   #- page: Grant text fragments
