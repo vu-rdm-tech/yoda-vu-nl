@@ -3,7 +3,7 @@
 ## Logging in
 
 
-Go to https://portal.yoda.vu.nl/
+Go to [https://portal.yoda.vu.nl/](https://portal.yoda.vu.nl/)
 
 Log in using the "Sign in" button. You will be prompted for your user name and password. If you are an employee or student 
 at Vrije Univeriteit, your user name is your vunetid (in lowercase). External users have usually received their user name
