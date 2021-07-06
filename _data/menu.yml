@@ -34,6 +34,8 @@ getting-started:
     url: /getting-started/yoda-disk-linux.html
   #- page: Getting started with the iRODS iCommands
   #  url: /getting-started/icommands.html
+  - page: Metadata in Yoda
+    url: /getting-started/metadata-add.html
 
 functions:
   - page: Storing data in Yoda
