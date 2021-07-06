@@ -33,7 +33,7 @@ datasets can also be automatically registered in Pure (https://research.vu.nl)
 In order to add structured metadata to a folder, navigate to the folder in the Yoda portal and press the 
 &ldquo;Metadata&rdquo; button.
 
-![Add-metadata](Add-metadata.jpg)
+![Add-metadata](add-metadata.png)
 
 Once you have added metadata and clicked on the &ldquo;Save&rdquo; button, the metadata will be stored in a specific 
 format in the folder. Yoda uses files named &ldquo;yoda-metadata.xml&rdquo; for this purpose.
@@ -49,11 +49,11 @@ Please consult the [metadata element list](metadata-details.html) for a detailed
 
 All mandatory fields are marked with an asterisk.
 
-![Mandatory metadata](Mandatory-metadata.JPG)
+![Mandatory metadata](mandatory-metadata.png)
 
 Some metadata elements consist of multiple fields. For example, if you enter a person identifier, you should also 
 specify the type of identifier.
-![Compound metadata](Compound-metadata.JPG)
+![Compound metadata](compound-metadata.JPG)
 
 Some fields can have multiple values. In order to add a value, press the &ldquo;+&rdquo; sign next to the field.
 
