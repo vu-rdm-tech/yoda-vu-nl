@@ -7,8 +7,7 @@ Go to [https://portal.yoda.vu.nl/](https://portal.yoda.vu.nl/)
 
 Log in using the "Sign in" button. You will be prompted for your user name and password. If you are an employee or student 
 at Vrije Univeriteit, your user name is your vunetid (in lowercase). External users have usually received their user name
-via email, along with a link to set their password. 
-Note: In the case of the Surf Yoda Environment everyone is an external user. 
+via email, along with a link to set their password.  
 
 ## Overview of the Yoda Portal
 
