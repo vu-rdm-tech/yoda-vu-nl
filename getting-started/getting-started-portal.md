@@ -31,7 +31,9 @@ After completion of a study, the data in that subfolder can be deposited so that
 kept for 10 years or longer. Use the "Submit" button to deposit the subfolder. This will
 copy the contents of the subfolder to the Vault folder as a new data package.
 Before doing so, the subfolder must be described with metadata, which can be entered by
-clicking on the Metadata button.  The folder named "vault-..." contains deposited data packages.
+clicking on the Metadata button. You can find more information about metadata in Yoda on [this page](metadata-add.md). 
+
+The folder named "vault-..." contains deposited data packages.
 Once deposited, data cannot be removed. Therefore the vault can be used to account for data
 in a research project to comply with FAIR principles.
 
