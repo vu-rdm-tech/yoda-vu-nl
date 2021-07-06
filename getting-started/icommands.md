@@ -44,8 +44,8 @@ sudo apt update
 sudo apt install irods-icommands
 ```
 
-Ubuntu 20 will complain about missing libssl and python-urlib3. If you need to you can install the missing packages 
-(versions as of June 2021): 
+Ubuntu 20 will complain about missing some specific packages. If you need to use ubuntu 20 you can install the missing 
+packages like this (versions as of June 2021): 
 ```
 ###
 # 2. Install python-urlib3, python-requests and libssl1.0.0
