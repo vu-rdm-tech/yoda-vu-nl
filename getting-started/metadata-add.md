@@ -65,7 +65,7 @@ project can be entered in the project-level folder. This metadata can then be co
 
 You can also copy the &ldquo;yoda-metadata.json&rdquo; file of a folder to another folder in order to copy its metadata.
 
-# Yoda structured metadata
+## Yoda structured metadata element list
 
 The Yoda metadata form consists of approx. 33 fields. The table below lists all metadata elements with a description of their function. The values in the Man. column state whether the field is mandatory when archiving a data package.
 
