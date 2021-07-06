@@ -32,8 +32,8 @@ getting-started:
     url: /getting-started/yoda-disk-macos.html
   - page: Connecting to the Yoda Network Disk on Linux
     url: /getting-started/yoda-disk-linux.html
-  #- page: Getting started with the iRODS iCommands
-  #  url: /getting-started/icommands.html
+  - page: Getting started with the iRODS iCommands
+    url: /getting-started/icommands.html
   - page: Metadata in Yoda
     url: /getting-started/metadata-add.html
 

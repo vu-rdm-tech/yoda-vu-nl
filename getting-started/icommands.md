@@ -18,7 +18,7 @@ MacOS users can run the commands inside a Linux VM.
 
 ### Installing iCommands on CentOS
 
-iRODS currently supports CentOS 7. As of November 2019, CentOS 8 is not supported yet.
+iRODS currently supports CentOS 7. As of July 2021, CentOS 8 is not supported yet.
 
 Use these commands to install the iCommands package on CentOS 7:
 
@@ -32,18 +32,33 @@ sudo yum versionlock irods-runtime irods-icommands
 
 ### Installing iCommands on Ubuntu
 
-iRODS currently supports Ubuntu 16.04 LTS officially. Although Ubuntu 18.04 LTS is not supported officially,
-as of November 2019, the iCommands work on this distribution.
+iRODS currently supports Ubuntu 18.04 LTS officially. Although Ubuntu 20.04 LTS is not supported officially,
+ the iCommands work on this distribution.
 
-Use these commands to install the iCommands package on Ubuntu 16.04 LTS or Ubuntu 18.04 LTS:
+Use these commands to install the iCommands package on Ubuntu 18.04 LTS:
 
 ```
 wget -qO - https://packages.irods.org/irods-signing-key.asc | sudo apt-key add -
-echo "deb [arch=amd64] https://packages.irods.org/apt/ xenial main" | sudo tee /etc/apt/sources.list.d/renci-irods.list
-sudo apt-get update
-sudo apt -y install aptitude irods-runtime=4.2.6 irods-icommands=4.2.6
-sudo aptitude hold irods-runtime irods-icommands
+echo "deb [arch=amd64] https://packages.irods.org/apt/ bionic main" | sudo tee /etc/apt/sources.list.d/renci-irods.list
+sudo apt update
+sudo apt install irods-icommands
 ```
+
+Ubuntu 20 will complain about missing libssl and python-urlib3. If you need to you can install the missing packages 
+(versions as of June 2021): 
+```
+###
+# 2. Install python-urlib3, python-requests and libssl1.0.0
+wget -c  \
+  http://security.ubuntu.com/ubuntu/pool/main/p/python-urllib3/python-urllib3_1.22-1ubuntu0.18.04.2_all.deb \
+  http://security.ubuntu.com/ubuntu/pool/main/r/requests/python-requests_2.18.4-2ubuntu0.1_all.deb \
+  http://security.ubuntu.com/ubuntu/pool/main/o/openssl1.0/libssl1.0.0_1.0.2n-1ubuntu5.6_amd64.deb
+sudo apt install \
+  ./python-urllib3_1.22-1ubuntu0.18.04.2_all.deb \
+  ./python-requests_2.18.4-2ubuntu0.1_all.deb \
+  ./libssl1.0.0_1.0.2n-1ubuntu5.6_amd64.deb
+```
+
 
 ## Configuration
 
