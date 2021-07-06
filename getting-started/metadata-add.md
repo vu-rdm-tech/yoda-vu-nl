@@ -53,7 +53,7 @@ All mandatory fields are marked with an asterisk.
 
 Some metadata elements consist of multiple fields. For example, if you enter a person identifier, you should also 
 specify the type of identifier.
-![Compound metadata](compound-metadata.JPG)
+![Compound metadata](compound-metadata.png)
 
 Some fields can have multiple values. In order to add a value, press the &ldquo;+&rdquo; sign next to the field.
 
